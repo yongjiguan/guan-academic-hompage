@@ -9,6 +9,31 @@
   weight = 10
 
 [[main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 20
+
+[[main]]
+  name = "Talks"
+  url = "#talk"
+  weight = 40
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 40
+
+[[main]]
+  name = "Reasearch"
+  url = "#research"
+  weight = 40
+
+[[main]]
+  name = "CV/Bio"
+  url = "#CV"
+  weight = 40
+
+[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
@@ -19,8 +44,8 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Links"
+  url = "#link"
   weight = 40
 
 [[main]]
