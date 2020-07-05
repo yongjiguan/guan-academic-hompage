@@ -51,11 +51,3 @@ subtitle = "Communication promotes human development"
 +++
 
 More info about Yongji Guan can be found in Yongji Guan's website. The Yongji Guan's website includes his Publications, Talks, Teaching, Research, CV/Bio, Portfolio, Blog Posts, Contact and Links, which might be helpful for you to know him.
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
