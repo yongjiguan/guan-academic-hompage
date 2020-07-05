@@ -21,7 +21,7 @@ copyright = "© 2020 Yongji Guan"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academia-hugo"
+theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
