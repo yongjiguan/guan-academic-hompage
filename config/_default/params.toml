@@ -100,7 +100,7 @@ address = {street = "80 Wood Lane", city = "London", region = "Whiteb City", pos
 coordinates = {latitude = "51.516254", longitude = "-0.224417"}
 
 # Directions for visitors to locate you.
-directions = "Molecular Science Research Hub and take the stairs to Office 601A on Floor 6"
+directions = "Molecular Science Research Hub and take the stairs to Floor 6 (beside 601A)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
