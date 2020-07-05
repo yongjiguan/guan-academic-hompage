@@ -56,7 +56,7 @@ address = "80 Wood Lane, Imperial College London, London, W12 0BZ, United Kingdo
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Weekday 09:00 to 12:00<br>
-                  14:00 to 18:00"""
+                  and 14:00 to 18:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
