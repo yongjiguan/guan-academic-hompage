@@ -24,6 +24,9 @@ interests:
 - Molecular Dynamics
 - Ionic Liquids
 - Nano Confinement
+- Nano Wetting
+- Energy Harvesting
+- Vibrational Spectrum
 
 education:
   courses:
