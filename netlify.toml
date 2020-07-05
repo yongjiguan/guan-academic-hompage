@@ -1,5 +1,5 @@
 [build]
-  command = "find . -name _gen -exec rm -rf {} + ; hugo --minify -b $URL"
+  command = "hugo --minify -b $URL"
   publish = "public"
 
 [build.environment]
