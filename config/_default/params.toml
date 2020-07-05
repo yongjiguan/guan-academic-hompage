@@ -51,12 +51,12 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yongji.guan@outlook.com"
-phone = "+86-188-0946-3920"
+phone = "+44-7579904711"
 address = "80 Wood Lane, Imperial College London, London, W12 0BZ, United Kingdom"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Weekday 09:00 to 12:00<br>
+                  14:00 to 18:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
