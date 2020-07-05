@@ -161,7 +161,7 @@ sharing = true
 
 ## ADDED BY YONGJI GUAN
 # Feynman Diagram Footer
-footmark = "layout/feynmanfooter.png"
+footmark = "https://github.com/yongjiguan/guan-academic-hompage/tree/master/static/img/layout/feynmanfooter.png"
 
 # Footer logos
 midlogo = "logo/UCRPAlogo2.png"
