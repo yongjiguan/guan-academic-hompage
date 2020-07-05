@@ -12,8 +12,8 @@
   languageCode = "zh-Hans"
   contentDir = "content/zh"
   title = "关永吉个人学术主页"
-#  [zh.params]
-#    description = "Site description in Chinese..."
+  [zh.params]
+  description = "欢迎访问关永吉的个人学术主页！"
 #  [[zh.menu.main]]
 #    name = "Wo"
 #    url = "#about"
