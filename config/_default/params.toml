@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Lanzhou University/Imperial College London"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Yongji Guan is currently a postdoc research fellow at Molecular Science Research Hub, department of Chemistry, Imperial College London."
 
 ############################
 ## Site Features
