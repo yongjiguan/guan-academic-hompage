@@ -44,13 +44,5 @@ hero_media = "/hero/GYJ.jpg"
 +++
 
 <div style="font-size:21px;width:150;text-align:justify;text-justify:inter-ideograph">
-My name is <b>Yongji Guan</b> and I'm currently a <b>Professor</b> specializing in <b>Artificial Intelligence</b>.
+My name is <b>Yongji Guan</b> and I'm currently a <b>Postdoc Research Fellow</b> specializing in <b>dynamic properies of ionic liquids</b> using molecular dynamics.
 </div>
-
-<div style="font-size:21px;width:150;text-align:justify;text-justify:inter-ideograph">
-Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from <a href="http://www.lzu.edu.cn">Lanzhou University</a> in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in <a href="http://www.imperial.ac.uk">Imperial College London</a>, advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
-</div>
-
-My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
