@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+More info about Yongji Guan can be found in Yongji Guan's website. The Yongji Guan's website includes his Publications, Talks, Teaching, Research, CV/Bio, Portfolio, Blog Posts, Contact and Links, which might be helpful for you to know him.
+
 Welcome to the **Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
