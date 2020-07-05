@@ -21,21 +21,21 @@ organizations:
 bio: Yongji Guan is currently a postdoc of Physical chemistry who specializes in the theoretical caculation of ionic liquids.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Molecular Dynamics
+- Ionic Liquids
+- Nano Confinement
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Radio Physics
+    institution: Lanzhou University
+    year: 2019
+  - course: M.Sc. in Radio Physics
+    institution: Lanzhou University
+    year: 2016
+  - course: B.Eng. in Communacation Engineering
+    institution: Lanzhou University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
