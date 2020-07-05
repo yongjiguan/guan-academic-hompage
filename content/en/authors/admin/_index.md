@@ -65,25 +65,10 @@ social:
   link: https://github.com/yongjiguan
 - icon: academia
   icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
-- icon: doi
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
+  link: https://independent.academia.edu/YongjiGuan
 - icon: mendeley
   icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
-- icon: overleaf
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
-- icon: pubmed
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
-- icon: researcherid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
-- icon: zotero
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530
+  link: https://www.mendeley.com/profiles/yongji-guan2/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yongji-guan-09434b195/  
