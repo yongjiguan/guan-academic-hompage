@@ -11,6 +11,8 @@ weight = 15  # Order that this section will appear.
 title = "Welcome to Yongji Guan's Academic Homepage!"
 subtitle = "Communication promotes human development"
 
+image = "/layout/lzu.jpg"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -51,7 +53,3 @@ subtitle = "Communication promotes human development"
 +++
 
 More info about Yongji Guan can be found in Yongji Guan's website. The Yongji Guan's website includes his Publications, Talks, Teaching, Research, CV/Bio, Portfolio, Blog Posts, Contact and Links, which might be helpful for you to know him.
-
-<p align="center">
-  <img src="https://github.com/yongjiguan/guan-academic-hompage/tree/master/static/img/layout/lzu.jpg" alt="Photo" style="width:600;"/> 
-</p>
