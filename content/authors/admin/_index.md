@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations..
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Ionic Liquids
+- Molecular Dynamics Simulation
 - Information Retrieval
 
 education:
