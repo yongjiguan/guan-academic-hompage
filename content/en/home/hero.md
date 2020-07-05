@@ -43,6 +43,6 @@ hero_media = "/hero/GYJ.jpg"
 
 +++
 
-<div style="font-size:21px;width:150;text-align:justify;text-justify:inter-ideograph">
+<div style="font-size:26px;width:150;text-align:justify;text-justify:inter-ideograph">
 My name is <b>Yongji Guan</b> and I'm currently a <b>Postdoc Research Fellow</b> specializing in <b>dynamic properies of ionic liquids</b> using molecular dynamics.
 </div>
