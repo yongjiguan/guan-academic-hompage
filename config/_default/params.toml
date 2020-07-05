@@ -159,7 +159,7 @@ docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
 
-## ADDED BY YONGJI Guan
+## ADDED BY YONGJI GUAN
 # Feynman Diagram Footer
 footmark = "layout/feynmanfooter.png"
 
@@ -169,7 +169,7 @@ mylogo = "logo/FlipAmbigram.png"
 
 # watermark on the about widget
 watermark = "background/Bundle3.jpg"
-## /FLIP
+## /Yongji GUAN
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
