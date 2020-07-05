@@ -51,3 +51,5 @@ subtitle = "Communication promotes human development"
 +++
 
 More info about Yongji Guan can be found in Yongji Guan's website. The Yongji Guan's website includes his Publications, Talks, Teaching, Research, CV/Bio, Portfolio, Blog Posts, Contact and Links, which might be helpful for you to know him.
+
+<img src='/layout/lzu.jpg'>
