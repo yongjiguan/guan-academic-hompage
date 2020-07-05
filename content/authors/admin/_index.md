@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc Research Fellow of Physical Chemistry
 
 # Organizations/Affiliations
 organizations:
