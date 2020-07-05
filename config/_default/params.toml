@@ -164,7 +164,7 @@ sharing = true
 footmark = "https://github.com/yongjiguan/guan-academic-hompage/tree/master/static/img/layout/panorama.jpg"
 
 # Footer logos
-midlogo = "logo/UCRPAlogo2.png"
+midlogo = "layout/panorama.jpg"
 mylogo = "logo/FlipAmbigram.png"
 
 # watermark on the about widget
