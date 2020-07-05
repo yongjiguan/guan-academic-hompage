@@ -9,7 +9,6 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Welcome to Yongji Guan's Academic Homepage!"
-
 subtitle = "Communication promotes human development"
 
 [design]
@@ -51,4 +50,4 @@ subtitle = "Communication promotes human development"
  css_class = ""
 +++
 
-More info about Yongji Guan can be found in Yongji Guan's website. The Yongji Guan's website includes his Publications, Talks, Teaching, Research, CV/Bio, Portfolio, Blog Posts, Contact and Links, which might be helpful for you to know him.
+###More info about Yongji Guan can be found in Yongji Guan's website. The Yongji Guan's website includes his Publications, Talks, Teaching, Research, CV/Bio, Portfolio, Blog Posts, Contact and Links, which might be helpful for you to know him.
