@@ -44,7 +44,7 @@ hero_media = "/hero/GYJ.jpg"
 +++
 
 <div style="font-size:21px;width:150;text-align:justify;text-justify:inter-ideograph">
-My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+My name is <b>Yongji Guan</b> and I'm currently a <b>Professor</b> specializing in <b>Artificial Intelligence</b>.
 </div>
 
 <div style="font-size:21px;width:150;text-align:justify;text-justify:inter-ideograph">
