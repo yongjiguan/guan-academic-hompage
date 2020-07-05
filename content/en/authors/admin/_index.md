@@ -18,7 +18,7 @@ organizations:
   url: "https://www.imperial.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yongji Guan is currently a postdoc of Physical chemistry who specializes in the theoretical caculation of ionic liquids.
 
 interests:
 - Artificial Intelligence
