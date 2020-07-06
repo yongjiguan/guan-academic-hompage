@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation"
 authors:
-- admin
+# - admin
 - Yongji Guan
 date: "2017-10-13"
 doi: "10.1021/acs.jpcc.7b07474"
