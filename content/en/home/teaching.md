@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Lanzhou Univesity"
+  organization = "School of Information Science and Engineering, Lanzhou Univesity"
   organization_url = "http://xxxy.lzu.edu.cn/"
   title = "Teaching Assistant - Mathematical Methods for Physicists"
   url = ""
