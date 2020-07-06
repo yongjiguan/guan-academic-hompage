@@ -24,22 +24,24 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Energy Harvesting"
+    tag = "Energy Harvesting"
+	
+  [[content.filter_button]]
+    name = "Nano Wetting"
+    tag = "Nano Wetting"
   
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
   
   [[content.filter_button]]
-    name = "Human"
-    tag = "human"
+    name = "Vibrational Spectrum"
+    tag = "Vibrational Spectrum"
   
-  [[content.filter_button]]
-    name = "Robotics"
-    tag = "robotics"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,7 +54,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
