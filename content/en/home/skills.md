@@ -39,7 +39,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = "50%"
   
 [[feature]]
-  icon = "user-secret"
+  icon = "user-tie"
   icon_pack = "fas"
   name = "Leadership"
   parcent = "80%"  
