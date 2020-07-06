@@ -1,6 +1,6 @@
 ---
 title: Energy Harvesting
-summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes(SWCNTs)
+summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes (SWCNTs)
 tags:
 - Energy Harvesting
 date: "2014-09-10"
