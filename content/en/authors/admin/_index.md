@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow
+role: Postdoc Research Fellow <br>
 
 # Organizations/Affiliations
 organizations:
