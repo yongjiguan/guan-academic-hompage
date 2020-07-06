@@ -34,11 +34,6 @@
   weight = 60
 
 [[main]]
-  name = "CV/Bio"
-  url = "#CV"
-  weight = 70
-
-[[main]]
   name = "Posts"
   url = "#posts"
   weight = 80
