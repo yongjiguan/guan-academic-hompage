@@ -7,8 +7,8 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
-  label : "Download Resume"
+- url : "https://github.com/yongjiguan/guan-academic-hompage/raw/master/static/Doc/Curriculum%20Vitae.pdf"
+  label : "Download CV"
 
 # Is this the primary user of the site?
 superuser: true
