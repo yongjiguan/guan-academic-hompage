@@ -1,8 +1,8 @@
 ---
-title: Energy Harvesting
+title: Microwave-Absorption
 summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes(SWCNTs)
 tags:
-- Energy Harvesting
+- Demo
 date: "2014-09-10"
 
 # Optional external URL for project (replaces project detail page).
