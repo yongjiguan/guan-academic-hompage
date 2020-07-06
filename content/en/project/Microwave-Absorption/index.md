@@ -1,6 +1,6 @@
 ---
 title: Microwave-Absorption
-summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes(SWCNTs)
+summary: Microwave-Absorbing Properties of Ionic Liquids based materials and structures.
 tags:
 - Demo
 date: "2014-09-10"
