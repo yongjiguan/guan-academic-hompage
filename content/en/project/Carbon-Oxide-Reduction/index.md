@@ -1,6 +1,6 @@
 ---
 title: Carbon Oxide Reduction
-summary: Photoelectrocatalytic Reduction of CO2 to clean energy.
+summary: Photoelectrocatalytic Reduction of carbon oxide to clean energy by mimicking artificial photosynthesis.
 tags:
 - Demo
 date: "2019-03-10"
