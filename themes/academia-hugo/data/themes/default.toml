@@ -5,7 +5,7 @@ name = "Default"
 light = true
 
 # Primary
-primary = "#fc6f5c"
+primary = "#fc6f5c" # #0086d1
 
 # Menu
 menu_primary = "#fff"
