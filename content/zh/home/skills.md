@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Skills"
 subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
@@ -15,13 +15,31 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "searchengin"
+  icon_pack = "fab"
+  name = "Research"
+  parcent = "95%"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Analysis"
   parcent = "90%"
+ 
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Teamwork"
+  parcent = "80%"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  parcent = "50%"
   
 [[feature]]
-  icon = "user-secret"
+  icon = "user-tie"
   icon_pack = "fas"
   name = "Leadership"
   parcent = "80%"  
@@ -30,12 +48,6 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  parcent = "70%"
-  
-[[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  parcent = "60%"
 
 +++

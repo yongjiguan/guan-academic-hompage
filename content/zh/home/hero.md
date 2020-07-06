@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "/hero/GYJ-full-1.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,7 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+# Welcome to Yongji Guan's Academic Hompage!
+
+## My name is **Yongji Guan** and I'm working currently as a **Postdoc Research Fellow** specializing in **dynamic properies of ionic liquids** using camputational calculation.

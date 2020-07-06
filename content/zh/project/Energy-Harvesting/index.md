@@ -1,10 +1,9 @@
 ---
-title: Artificial Intelligence
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+title: Energy Harvesting
+summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes (SWCNTs)
 tags:
-- Demo
-- robotics
-date: "2016-04-27T00:00:00Z"
+- Energy Harvesting
+date: "2014-09-10"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 

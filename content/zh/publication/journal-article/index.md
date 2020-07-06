@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Qunfeng Shao, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, Youquan Deng.
+date: "2017-10-26"
+doi: "10.1021/acs.jpcc.7b07474"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-10-26"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,17 +16,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "The Journal of Physical Chemistry C, 2017, 121(42): 23716-23726"
+publication_short: "J Phys Chem C"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The dynamic three-dimensional nanowetting behavior of nanodroplets of three kinds of 1-ethyl-3methylimidazolium ionic liquids (ILs) with radii between 10 and 30 Å is probed by molecular dynamics (MD) simulation on a solid silicon surface at temperatures ranging from 300 to 500 K. The simulation results show that contact angles change greatly and then tend to be saturated from 45° to 75° as the droplet radius of ILs varied from 10 to 20 Å and further to >20 Å. The values of the contact angle are anisotropic and could be 39.5° and 48.7° in the x and y directions of the droplets spreading on the solid silicon surface when the radius of the IL droplet is 10 Å, and increasing the radius of the droplets can weaken the anisotropy of the contact angle. Further analysis of the interaction among cations, anions, and silicon suggests that the van der Waals (VDW) interaction of ions and silicon substrate varies from −56.5 to −53.5 kJ mol<sup>-1</sup> per ion pair and silicon, and the Coulombic interaction of cations and anions varies from −265.3 to −282.0 kJ mol<sup>-1</sup> per ion pair as the droplet radius of ILs ranged from 10 to 30 Å. Upon increasing the droplet radius, the imidazolium ring of the cation in the adsorbed layer is more nearly parallel to the silicon substrate, and this allows a very effective interaction with the silicon substrate. These changes in the structure of the adsorbed layer in the vicinity of the silicon surface and their effects on the structuring of ions in the bulk liquid layers above this strongly adsorbed layer lead to the difference of VDW and Coulombic interactions as the droplet radius of ILs varied from 10 to 30 Å. Additionally, the impact of the intrinsic viscosity and temperature on the nanowetting behavior of ILs is also investigated.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This work mainly focuses on proving the dynamic three-dimensional nanowetting behavior of nanodroplets of three kinds of 1-ethyl-3methylimidazolium ionic liquids (ILs) with radii between 10 and 30 Å by molecular dynamics (MD) simulation on a solid silicon surface at temperatures ranging from 300 to 500 K.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -52,14 +52,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [Nano-Wetting]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
 {{% alert note %}}
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [Additional Methods and Data](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474).

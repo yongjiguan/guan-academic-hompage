@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Projects"
 subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
@@ -24,22 +24,22 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Energy Harvesting"
+    tag = "Energy Harvesting"
+	
+  [[content.filter_button]]
+    name = "Nano Wetting"
+    tag = "Nano Wetting"
   
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
   
   [[content.filter_button]]
-    name = "Human"
-    tag = "human"
-  
-  [[content.filter_button]]
-    name = "Robotics"
-    tag = "robotics"
+    name = "Vibrational Spectrum"
+    tag = "Vibrational Spectrum"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,7 +52,7 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
