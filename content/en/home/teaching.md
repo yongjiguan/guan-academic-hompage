@@ -21,22 +21,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "School of Information Science and Engineering, Lanzhou Univesity"
   organization_url = "http://xxxy.lzu.edu.cn/"
-  title = "Teaching Assistant - Mathematical Methods for Physicists"
-  url = ""
-  certificate_url = ""
-  date_start = "2014-09-01"
-  date_end = "2015-01-15"
-  description = "This is my second teaching on **Mathematical Methods for Physicists** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
-
-[[item]]
-  organization = "School of Information Science and Engineering, Lanzhou Univesity"
-  organization_url = "http://xxxy.lzu.edu.cn/"
   title = "Teaching Assistant - Principle of Communication"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2015-01-15"
   description = "This is my first teaching on **Principle of Communication** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
+
+[[item]]
+  organization = "School of Information Science and Engineering, Lanzhou Univesity"
+  organization_url = "http://xxxy.lzu.edu.cn/"
+  title = "Teaching Assistant - Mathematical Methods for Physicists"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-09-01"
+  date_end = "2015-01-15"
+  description = "This is my second teaching on **Mathematical Methods for Physicists** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
   
 [[item]]
   organization = "School of Information Science and Engineering, Lanzhou Univesity"
