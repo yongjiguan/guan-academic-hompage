@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yongji Guan, PhD
+name: Yongji Guan
 avatar_image: "GYJ.jpg"
 # Username (this should match the folder name)
 authors:
