@@ -10,7 +10,7 @@ subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Jan 12, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -33,21 +33,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoc Research Fellow"
+  company = "Department of Chemistry, Imperial College London"
+  company_url = "https://www.imperial.ac.uk/"
+  location = "White City, London, United Kingdom"
+  date_start = "2019-10-01"
+  date_end = "Present"
+  description = """I am working currently as a postdoctoral research fellow at department of chemistry in Imperial College London, advised by Prof. Tom Welton."""
 
 [[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "International Postdoc Research Fellow"
+  company = "School of Information Science and Engineering, Lanzhou University"
+  company_url = "www.lzu.edu.cn"
+  location = "Lanzhou, Gansu, China"
+  date_start = "2019-10-01"
+  date_end = "Present"
+  description = """I am working currently as a international postdoctoral research fellow at school of information science and engineering in Lanzhou University, advised by Prof. Xiaoping Zhang."""
   
 +++
