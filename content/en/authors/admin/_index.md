@@ -14,35 +14,38 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Imperial College London
+  url: "https://www.imperial.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ongji Guan is currently a postdoc of Physical chemistry who specializes in the theoretical caculation of ionic liquids.
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Molecular Dynamics
+- Ionic Liquids
+- Nano Confinement
+- Nano Wetting
+- Energy Harvesting
+- Vibrational Spectrum
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Radio Physics
+    institution: Lanzhou University
+    year: 2019
+  - course: M.Sc. in Radio Physics
+    institution: Lanzhou University
+    year: 2016
+  - course: B.Eng. in Communacation Engineering
+    institution: Lanzhou University
+    year: 2014
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
