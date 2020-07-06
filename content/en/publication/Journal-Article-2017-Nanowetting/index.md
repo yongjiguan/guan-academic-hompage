@@ -24,6 +24,8 @@ abstract: The dynamic three-dimensional nanowetting behavior of nanodroplets of 
 # Summary. An optional shortened abstract.
 summary: This work mainly focuses on probing the dynamic three-dimensional nanowetting behavior of three kinds of 1-ethyl-3methylimidazolium ionic liquids nanodroplets with radii between 10 and 30 Å by molecular dynamics (MD) simulation on a solid silicon surface at temperatures ranging from 300 to 500 K.
 
+**Times cited: 20**
+
 tags:
 - Source Themes
 featured: true
