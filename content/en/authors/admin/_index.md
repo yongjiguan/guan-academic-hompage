@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow <br>
+role: Postdoc Research Fellow &nbsp;
 
 # Organizations/Affiliations
 organizations:
