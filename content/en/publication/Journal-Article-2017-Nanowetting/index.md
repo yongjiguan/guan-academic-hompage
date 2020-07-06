@@ -30,7 +30,7 @@ featured: true
 
 # links:
 - name: ""
-url: ""
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
