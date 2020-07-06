@@ -38,7 +38,7 @@ date_format = "Jan 12, 2006"
   company_url = "https://www.imperial.ac.uk/"
   location = "White City, London, United Kingdom"
   date_start = "2019-10-01"
-  date_end = "Present"
+  date_end = "2021-09-30"
   description = """I am working currently as a postdoctoral research fellow at department of chemistry in Imperial College London, advised by Prof. Tom Welton."""
 
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 12, 2006"
   company_url = "www.lzu.edu.cn"
   location = "Lanzhou, Gansu, China"
   date_start = "2019-10-01"
-  date_end = "Present"
+  date_end = "2021-09-30"
   description = """I am working currently as a international postdoctoral research fellow at school of information science and engineering in Lanzhou University, advised by Prof. Xiaoping Zhang."""
   
 +++
