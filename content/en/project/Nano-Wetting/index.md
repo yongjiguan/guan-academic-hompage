@@ -9,6 +9,6 @@ date: "2013-10-09"
 external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: # Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
