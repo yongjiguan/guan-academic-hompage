@@ -55,15 +55,33 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=0rV6OnYAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yongji_Guan
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9210-3530
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1467632/yongji-guan/  
 - icon: github
+  icon_pack: ai
+  link: https://github.com/yongjiguan
+- icon: academia
+  icon_pack: ai
+  link: https://independent.academia.edu/YongjiGuan
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/yongji-guan2/
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/yongji-guan-09434b195/  
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GuanYongji
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
