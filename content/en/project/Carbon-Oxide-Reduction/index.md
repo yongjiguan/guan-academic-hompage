@@ -1,9 +1,9 @@
 ---
 title: Carbon Oxide Reduction
-summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes(SWCNTs)
+summary: Photoelectrocatalytic Reduction of CO2 to clean energy
 tags:
 - Demo
-date: "2014-09-10"
+date: "2019-03-10"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
