@@ -68,7 +68,7 @@ social:
   icon_pack: ai
   link: https://publons.com/researcher/1467632/yongji-guan/  
 - icon: github
-  icon_pack: ai
+  icon_pack: fab
   link: https://github.com/yongjiguan
 - icon: academia
   icon_pack: ai
