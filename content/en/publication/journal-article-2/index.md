@@ -1,10 +1,10 @@
 ---
-title: "Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation"
+title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
 authors:
-- admin
-- Qunfeng Shao, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, Youquan Deng.
-date: "2017-10-26"
-doi: "10.1021/acs.jpcc.7b07474"
+# - admin
+- Qunfeng Shao, Jingjing Jia, Yongii Guan, Xiaodong He, Xiaoping Zhang.
+date: "2016-03-28"
+doi: "10.1063/1.4944611"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-10-26"
@@ -16,13 +16,13 @@ publishDate: "2017-10-26"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Physical Chemistry C, 2017, 121(42): 23716-23726"
-publication_short: "J Phys Chem C"
+publication: "The Journal of Chemical Physics, 2016, 144(12): 124703"
+publication_short: "J Chem Phys"
 
-abstract: The dynamic three-dimensional nanowetting behavior of nanodroplets of three kinds of 1-ethyl-3methylimidazolium ionic liquids (ILs) with radii between 10 and 30 Å is probed by molecular dynamics (MD) simulation on a solid silicon surface at temperatures ranging from 300 to 500 K. The simulation results show that contact angles change greatly and then tend to be saturated from 45° to 75° as the droplet radius of ILs varied from 10 to 20 Å and further to >20 Å. The values of the contact angle are anisotropic and could be 39.5° and 48.7° in the x and y directions of the droplets spreading on the solid silicon surface when the radius of the IL droplet is 10 Å, and increasing the radius of the droplets can weaken the anisotropy of the contact angle. Further analysis of the interaction among cations, anions, and silicon suggests that the van der Waals (VDW) interaction of ions and silicon substrate varies from −56.5 to −53.5 kJ mol<sup>-1</sup> per ion pair and silicon, and the Coulombic interaction of cations and anions varies from −265.3 to −282.0 kJ mol<sup>-1</sup> per ion pair as the droplet radius of ILs ranged from 10 to 30 Å. Upon increasing the droplet radius, the imidazolium ring of the cation in the adsorbed layer is more nearly parallel to the silicon substrate, and this allows a very effective interaction with the silicon substrate. These changes in the structure of the adsorbed layer in the vicinity of the silicon surface and their effects on the structuring of ions in the bulk liquid layers above this strongly adsorbed layer lead to the difference of VDW and Coulombic interactions as the droplet radius of ILs varied from 10 to 30 Å. Additionally, the impact of the intrinsic viscosity and temperature on the nanowetting behavior of ILs is also investigated.
+abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on proving the dynamic three-dimensional nanowetting behavior of nanodroplets of three kinds of 1-ethyl-3methylimidazolium ionic liquids (ILs) with radii between 10 and 30 Å by molecular dynamics (MD) simulation on a solid silicon surface at temperatures ranging from 300 to 500 K.
+summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations.
 
 tags:
 - Source Themes
@@ -52,7 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Nano-Wetting]
+projects: [Energy Harvesting]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474).
+Supplementary notes can be added here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
