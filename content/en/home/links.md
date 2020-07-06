@@ -1,53 +1,61 @@
 +++
-# Experience widget.
+# Accomplishments widget.
 widget = "links"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Links"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+subtitle = "Stand on the shoulders of giants"
 
-# Date format for experience
+# Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan, 2006"
+date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Postdoc Research Fellow"
-  company = "Department of Chemistry, Imperial College London"
-  company_url = "https://www.imperial.ac.uk/"
-  location = "White City, London, United Kingdom"
-  date_start = "2019-10-01"
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
   date_end = ""
-  description = """I am working currently as a postdoctoral research fellow at department of chemistry in Imperial College London, advised by Prof. Tom Welton."""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
 
-[[experience]]
-  title = "International Postdoc Research Fellow"
-  company = "School of Information Science and Engineering, Lanzhou University"
-  company_url = "http://www.lzu.edu.cn/"
-  location = "Lanzhou, Gansu, China"
-  date_start = "2019-10-01"
+[[item]]
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
   date_end = ""
-  description = """I am working currently as a international postdoctoral research fellow at school of information science and engineering in Lanzhou University, advised by Prof. Xiaoping Zhang."""
-
-# [[experience]]
-  # title = "CEO"
-  # company = "GenCoin"
-  # company_url = ""
-  # location = "California"
-  # date_start = "2017-01-01"
-  # date_end = ""
-  # description = """
-  # Responsibilities include:
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-  # * Analysing
-  # * Modelling
-  # * Deploying
-  # """  
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
+  
+[[item]]
+  organization = "RDX"
+  organization_url = "https://www.rdx.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
+
 +++
