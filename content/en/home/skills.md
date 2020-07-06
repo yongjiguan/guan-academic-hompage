@@ -33,6 +33,12 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   parcent = "70%"
 
 [[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Teamwork"
+  parcent = "70%"
+  
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
