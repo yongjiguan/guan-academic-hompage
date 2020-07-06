@@ -26,7 +26,7 @@ summary: This work mainly focuses on proving the dynamic three-dimensional nanow
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
