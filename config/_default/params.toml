@@ -8,8 +8,8 @@ color_theme = "default"
 day_night = true
 
 # Font style.
-#   Choose from `default`, `classic`, or `rose`.
-font = "rose"
+#   Choose from `default`, `classic`, `minimal`, `mr_robot`, or `rose`.
+font = "minimal"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
