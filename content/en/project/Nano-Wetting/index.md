@@ -1,6 +1,6 @@
 ---
 title: Nano Wetting
-summary: The nano-wetting behaviour of ionic liquids.
+summary: The nano-wetting behaviour of ionic liquids on solid surface with/without external force.
 tags:
 - Nano Wetting
 date: "2013-10-09"
