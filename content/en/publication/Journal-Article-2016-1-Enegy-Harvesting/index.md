@@ -22,7 +22,7 @@ publication_short: "J Chem Phys"
 abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. Times cited: 12
+summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. Times cited 12
 
 tags:
 - Source Themes
