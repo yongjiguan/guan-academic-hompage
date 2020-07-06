@@ -43,10 +43,6 @@ hero_media = "/hero/GYJ.jpg"
 
 +++
 
-<div style="font-size:26px;width:150;text-align:justify;text-justify:inter-ideograph">
-My name is <b>Yongji Guan</b> and I'm currently a <b>Postdoc Research Fellow</b> specializing in <b>dynamic properies of ionic liquids</b> using molecular dynamics.
-</div>
-
 # Welcome to Yongji Guan's Academic Hompage!
 
 ## My name is **Yongji Guan** and I'm working currently as a **Postdoc Research Fellow** specializing in **dynamic properies of ionic liquids** using camputational calculation.
