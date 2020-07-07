@@ -2,7 +2,7 @@
 title: "Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions"
 authors:
 # - admin
-- Jinyuan Wang, **Yongji Guan**, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing.
+- Jinyuan Wang, **Yongji Guan**, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing
 - iScience, 2020, 23 (1), 100768-100768
 date: "2019-12-12"
 doi: "10.1016/j.isci.2019.100768"
