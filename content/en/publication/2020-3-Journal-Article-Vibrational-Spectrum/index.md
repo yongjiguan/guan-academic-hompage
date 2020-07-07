@@ -1,13 +1,13 @@
 ---
-title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
+title: "Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface"
 authors:
 # - admin
-- Qunfeng Shao, Jingjing Jia, Yongii Guan, Xiaodong He, Xiaoping Zhang.
-date: "2016-03-28"
-doi: "10.1063/1.4944611"
+- Jiao Zhang<sup>1</sup>, <b>Yongii Guan<sup>1</sup></b>, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
+date: "2020-05-08"
+doi: "10.1016/j.molliq.2020.113340"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-10-26"
+publishDate: "2020-05-08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +16,22 @@ publishDate: "2017-10-26"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Chemical Physics, 2016, 144(12): 124703"
-publication_short: "J Chem Phys"
+publication: "Journal of Molecular Liquids, 2020, 311, 113340"
+publication_short: "J Mol Liqs"
 
-abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
+abstract: Ionic liquids (ILs) are promising novel solvents for energy harvesting and understanding the graphene/ILs interface structural characteristics is required. In this study, we calculate the vibrational spectrum (VS) of 1-ethyl-3-methylimidazolium tetrafluoroborate ([Emim][BF<sub>4</sub>]) pair on graphene surface in the range from 10 to 3500 cm<sup>-1</sup> and systemically investigate the influence of the graphene on the VS of [Emim][BF<sub>4</sub>] using density functional theory. The results show 24 vibrational bands (VBs) with obvious shifting. The VBs at 3170.26 and 3033.51 cm<sup>-1</sup> show a redshift of 59.46 and 14.95 cm<sup>-1</sup> respectively which was mainly caused by the enhanced hydrogen bond strength of C<sub>2</sub>H···F and F atoms with the CH on the ethyl chain. The VBs at 101.49 and 1417.43 cm<sup>-1</sup> show a blueshift of 62.43 and 23.86 cm<sup>-1</sup> due to the enhancement of induction effect of [Emim][BF<sub>4</sub>] on graphene surface (from −44.68 to −45.42 kJ mol<sup>-1</sup>). The VB at 86.91 cm<sup>-1</sup> shows a redshift of 59.43 cm<sup>-1</sup> which can be ascribed to the reduction of the whole interaction energy between the cation and anion of [Emim][BF<sub>4</sub>] on graphene surface (from −367.06 to −356.06 kJ·mol<sup>-1</sup>). Overall, these shifts of the VS are mainly attributed to the attraction between graphene and anion [BF<sub>4</sub>]<sup>-</sup>, which is dominated by the induction and dispersion interaction accounting for 63.43% and 34.37% of the attraction interaction respectively. Due to this attraction, the anion [BF<sub>4</sub>]<sup>-</sup> move closer to the surface of graphene.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. **Times cited 12**
+summary: TIn this study, we calculate the vibrational spectrum (VS) of 1-ethyl-3-methylimidazolium tetrafluoroborate ([Emim][BF<sub>4</sub>]) pair on graphene surface in the range from 10 to 3500 cm<sup>-1</sup> and systemically investigate the influence of the graphene on the VS of [Emim][BF<sub>4</sub>] using density functional theory. (**Times cited = 0**)
 
 tags:
 - Source Themes
-featured: true
+featured: flase
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://yongjiguan.github.io/files/2020-3.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -43,7 +43,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -52,7 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Energy-Harvesting]
+projects: [Vibrational-Spectrum]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
+Supplementary notes can be added here, including [Additional Methods and Data](https://www.sciencedirect.com/science/article/abs/pii/S0167732220301069?via%3Dihub).
