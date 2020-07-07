@@ -1,9 +1,8 @@
 ---
 title: "1. Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation (Times cited = 12)"
 authors:
-- Qunfeng Shao, Jingjing Jia
-- admin
-- Xiaodong He, Xiaoping Zhang
+# - admin
+- Qunfeng Shao, Jingjing Jia, **Yongii Guan**, Xiaodong He, Xiaoping Zhang
 - The Journal of Chemical Physics, 2016, 144(12), 124703
 date: "2016-03-28"
 doi: "10.1063/1.4944611"
