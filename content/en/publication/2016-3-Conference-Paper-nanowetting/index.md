@@ -2,7 +2,7 @@
 title: "Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation"
 authors:
 - admin
-- **Yongji Guan**, Qunfeng Shao, Xiaoping Zhang.
+- Qunfeng Shao, Xiaoping Zhang.
 date: "2016-09-24"
 doi: ""
 
