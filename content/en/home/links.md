@@ -19,18 +19,84 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Computational Calculations"
   organization_url = ""
-  title = "World University Rankings"
+  title = "Molecular Builders"
   url = ""
   certificate_url = ""
-  date_start = "2020-07-02"
+  date_start = "2020-07-08"
   date_end = ""
   description = """
-  * [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
-  * [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
-  * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
-  * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
+  * [Moltemplate](http://www.moltemplate.org/)
+  * [VMD TopoTools](https://zenodo.org/record/545655)
+  * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml)
+  * [Avogadro](http://avogadro.cc/)
+  * [fftool](https://github.com/agiliopadua/fftool)
+  * [Others](https://lammps.sandia.gov/prepost.html)
+  """
+
+[[item]]
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Visual Software"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-07"
+  date_end = ""
+  description = """
+  * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
+  * [Pymol](https://pymol.org/2/)
+  * [Ovito](https://www.ovito.org/)
+  * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
+  * [AIMAll](http://aim.tkgristmill.com/index.html)
+  * [Others](https://lammps.sandia.gov/prepost.html)
+  """
+
+[[item]]
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Post Processing Tools"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-06"
+  date_end = ""
+  description = """
+  * [TRAVIS](http://www.travis-analyzer.de/)
+  * [PyLAT](https://github.com/MaginnGroup/PyLAT)
+  * [Multiwfn](http://sobereva.com/multiwfn/)
+  """
+
+[[item]]
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Quantum Chemistry Softwares"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-05"
+  date_end = ""
+  description = """
+  * [Gaussian](https://gaussian.com)
+  * [VASP](https://www.vasp.at)
+  * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
+  * [Others](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
+  """
+
+[[item]]
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Molecular Dynamics Softwares"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-04"
+  date_end = ""
+  description = """
+  * [LAMMPS](https://lammps.sandia.gov/)
+  * [GROMACS](http://www.gromacs.org/)
+  * [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
+  * [NAMD](https://www.ks.uiuc.edu/Research/namd/)
+  * [TINKER](https://dasher.wustl.edu/tinker/)
+  * [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
+  * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)
   """
 
 [[item]]
@@ -48,6 +114,21 @@ date_format = "Jan 2006"
   * [NoteExpress](http://www.inoteexpress.com/aegean/)
   * [ReadCube Papers](https://www.papersapp.com/)
   * [Others](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+  """
+
+[[item]]
+  organization = "Coursera"
+  organization_url = ""
+  title = "World University Rankings"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-02"
+  date_end = ""
+  description = """
+  * [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
+  * [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
+  * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
+  * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
   """
 
 [[item]]
@@ -73,87 +154,6 @@ date_format = "Jan 2006"
   * [The Padua Group - École Normale Supérieure de Lyon](http://perso.ens-lyon.fr/agilio.padua/)
   * [The Schroder Group - University of Giessen](https://www.mdy.univie.ac.at/people/schroeder/schroeder.html)
   * [The Canongia Lopes Group - Universidade de Lisboa](http://web.tecnico.ulisboa.pt/~jnlopes/ZNHP/)
-  """
-
-[[item]]
-  organization = "Computational Calculations"
-  organization_url = ""
-  title = "Molecular Dynamics Softwares"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-04"
-  date_end = ""
-  description = """
-  * [LAMMPS](https://lammps.sandia.gov/)
-  * [GROMACS](http://www.gromacs.org/)
-  * [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
-  * [NAMD](https://www.ks.uiuc.edu/Research/namd/)
-  * [TINKER](https://dasher.wustl.edu/tinker/)
-  * [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
-  * [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)
-  """
-  
-[[item]]
-  organization = "Computational Calculations"
-  organization_url = ""
-  title = "Quantum Chemistry Softwares"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-05"
-  date_end = ""
-  description = """
-  * [Gaussian](https://gaussian.com)
-  * [VASP](https://www.vasp.at)
-  * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
-  * [Others](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
-  """
-  
-[[item]]
-  organization = "Computational Calculations"
-  organization_url = ""
-  title = "Molecular Builders"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-08"
-  date_end = ""
-  description = """
-  * [Moltemplate](http://www.moltemplate.org/)
-  * [VMD TopoTools](https://zenodo.org/record/545655)
-  * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml)
-  * [Avogadro](http://avogadro.cc/)
-  * [fftool](https://github.com/agiliopadua/fftool)
-  * [Others](https://lammps.sandia.gov/prepost.html)
-  """
-
-[[item]]
-  organization = "Computational Calculations"
-  organization_url = ""
-  title = "Post Processing Tools"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-06"
-  date_end = ""
-  description = """
-  * [TRAVIS](http://www.travis-analyzer.de/)
-  * [PyLAT](https://github.com/MaginnGroup/PyLAT)
-  * [Multiwfn](http://sobereva.com/multiwfn/)
-  """
-
-[[item]]
-  organization = "Computational Calculations"
-  organization_url = ""
-  title = "Visual Software"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-07"
-  date_end = ""
-  description = """
-  * [VMD](https://www.ks.uiuc.edu/Research/vmd/)
-  * [Pymol](https://pymol.org/2/)
-  * [Ovito](https://www.ovito.org/)
-  * [UCSF Chimera](http://www.cgl.ucsf.edu/chimera/)
-  * [AIMAll](http://aim.tkgristmill.com/index.html)
-  * [Others](https://lammps.sandia.gov/prepost.html)
   """
 
 +++
