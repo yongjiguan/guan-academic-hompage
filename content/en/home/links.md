@@ -34,6 +34,48 @@ date_format = "Jan 2006"
   """
 
 [[item]]
+  organization = "Coursera"
+  organization_url = ""
+  title = "Reference Management Software"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """
+  * [EndNote](https://endnote.com/)
+  * [Mendeley](https://www.mendeley.com/?interaction_required=true)
+  * [Zotero](https://www.zotero.org/)
+  * [NoteExpress](http://www.inoteexpress.com/aegean/)
+  * [ReadCube Papers](https://www.papersapp.com/)
+  * [Others](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+  """
+
+[[item]]
+  organization = "Coursera"
+  organization_url = ""
+  title = "Ionic Liquids Group"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """
+  * [The Fayer Group - Stanford University](https://web.stanford.edu/group/fayer/)
+  * [The Scholes Group - Princeton University](http://chemlabs.princeton.edu/scholes/)
+  * [The Welton Group - Imperial College London](https://www.imperial.ac.uk/people/t.welton)
+  * [The Hunt Group - Imperial College London](http://www.huntresearchgroup.org.uk/)
+  * [The Schatz Group - Northwestern University](https://sites.northwestern.edu/schatz/)
+  * [The Atkin Group - The University of Western Australia](http://chemlabs.princeton.edu/scholes/)
+  * [The Maginn Group - University of Notre Dame](http://sites.nd.edu/maginn-group/edward-maginn/)
+  * [The Yamaguchi Group - Osaka University](http://www-gcom.mech.eng.osaka-u.ac.jp/index-e.html)
+  * [The Margulis Group - University of Iowa](https://chem.uiowa.edu/the-margulis-group)
+  * [The Ludwig Group - Universität Rostock](https://www.ludwig.chemie.uni-rostock.de)
+  * [The Yethiraj Group - University of Wisconsin-Madison](https://yethiraj.chem.wisc.edu)
+  * [The Padua Group - École Normale Supérieure de Lyon](http://perso.ens-lyon.fr/agilio.padua/)
+  * [The Schroder Group - University of Giessen](https://www.mdy.univie.ac.at/people/schroeder/schroeder.html)
+  * [The Canongia Lopes Group - Universidade de Lisboa](http://web.tecnico.ulisboa.pt/~jnlopes/ZNHP/)
+  """
+
+[[item]]
   organization = "Computational Calculations"
   organization_url = ""
   title = "Molecular Dynamics Softwares"
