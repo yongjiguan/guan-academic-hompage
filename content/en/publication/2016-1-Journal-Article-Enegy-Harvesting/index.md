@@ -24,6 +24,8 @@ abstract: In this work, the phenomenon of the voltage generation is explored by 
 # Summary. An optional shortened abstract.
 summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. **Times cited 12**
 
+summary: **Times cited 12**
+
 tags:
 - Source Themes
 featured: true
@@ -31,7 +33,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://yongjiguan.github.io/files/2016-1.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
