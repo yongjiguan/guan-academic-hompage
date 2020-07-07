@@ -28,9 +28,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
-* [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
-* [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
-* [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
+  * [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
+  * [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
+  * [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)
   """
 
 [[item]]
@@ -58,17 +58,29 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_end = ""
+  description = """
+  * [Gaussian](https://gaussian.com)
+  * [VASP](https://www.vasp.at)
+  * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)
+  * [Others](https://en.wikipedia.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software)
+  """
   
 [[item]]
-  organization = "RDX"
-  organization_url = "https://www.rdx.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Molecular Builders"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
-  description = ""
+  description = """
+  * [Moltemplate](http://www.moltemplate.org/)
+  * [VMD TopoTools](https://zenodo.org/record/545655)
+  * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml)
+  * [Avogadro](http://avogadro.cc/)
+  * [fftool](https://github.com/agiliopadua/fftool)
+  * [Others](https://lammps.sandia.gov/prepost.html)
+  """
 
 +++
