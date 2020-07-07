@@ -1,13 +1,13 @@
 ---
-title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
+title: "Photoelectrocatalytic Reduction of CO<sub>2</sub> to Paraffin Using P-N Heterojunctions"
 authors:
 # - admin
 - Qunfeng Shao, Jingjing Jia, Yongii Guan, Xiaodong He, Xiaoping Zhang.
-date: "2016-03-28"
-doi: "10.1063/1.4944611"
+date: "2019-12-12"
+doi: "10.1016/j.isci.2019.100768"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-10-26"
+publishDate: "2019-12-12"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +16,22 @@ publishDate: "2017-10-26"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Chemical Physics, 2016, 144(12): 124703"
-publication_short: "J Chem Phys"
+publication: "iScience, 2020, 23 (1), 100768-100768"
+publication_short: "iScience"
 
-abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
+abstract: Nowadays, photoelectrocatalytic (PEC) reduction of CO<sub>2</sub> represents a very promising solution for storing solar energy in value-added chemicals, but so far it has been hampered by the lack of highly efficient catalyst of photocathode. Enlightened by the Calvin cycle of plants, here we show that a series of three-dimensional C/N-doped heterojunctions of Zn<sub>x</sub>:Co<sub>y</sub>@Cu are successfully fabricated and applied as photocathodes in the PEC reduction of CO<sub>2</sub> to generate paraffin product. These materials integrate semiconductors of p-type Co<sub>3</sub>O<sub>4</sub> and n-type ZnO on Cu foam to construct fine heterojunctions with multiple active sites, which result in excellent C-C coupling control in reduction of CO<sub>2</sub>. The best catalyst of Zn<sub>0.2</sub>:Co<sub>1</sub>@Cu yields paraffin at a rate of 325 ug h<sup>-1</sup> under 0.4V versus saturated calomel electrode without H<sub>2</sub> release. The apparent quantum efficiency of PEC cell is up to 1.95%.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. **Times cited 12**
+summary: here we show that a series of three-dimensional C/N-doped heterojunctions of Zn<sub>x</sub>:Co<sub>y</sub>@Cu are successfully fabricated and applied as photocathodes in the PEC reduction of CO<sub>2</sub> to generate paraffin product. (**Times cited = 2**)
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://yongjiguan.github.io/files/2020-1.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -43,7 +43,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -52,7 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Energy-Harvesting]
+projects: [Carbon-Oxide-Reduction]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
+Supplementary notes can be added here, including [Additional Methods and Data](https://www.sciencedirect.com/science/article/pii/S2589004219305139).
