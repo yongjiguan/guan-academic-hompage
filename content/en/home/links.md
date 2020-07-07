@@ -34,14 +34,22 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Molecular Dynamics Softwares"
+  url = ""
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """
+				* [LAMMPS](https://lammps.sandia.gov/)
+				* [GROMACS](http://www.gromacs.org/)
+				* [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
+				* [NAMD](https://www.ks.uiuc.edu/Research/namd/)
+				* [TINKER](https://dasher.wustl.edu/tinker/)
+				* [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
+				* [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)
+				"""
   
 [[item]]
   organization = "DataCamp"
