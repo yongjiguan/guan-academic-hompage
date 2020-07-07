@@ -100,7 +100,7 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Coursera"
+  organization = "Software"
   organization_url = ""
   title = "Reference Management Software"
   url = ""
@@ -117,7 +117,7 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Coursera"
+  organization = "Ranking"
   organization_url = ""
   title = "World University Rankings"
   url = ""
@@ -132,7 +132,7 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Coursera"
+  organization = "Research Group"
   organization_url = ""
   title = "Ionic Liquids Group"
   url = ""
