@@ -1,5 +1,5 @@
 ---
-title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
+title: "1. Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation (Times cited = 12)"
 authors:
 # - admin
 - Qunfeng Shao, Jingjing Jia, **Yongii Guan**, Xiaodong He, Xiaoping Zhang.
@@ -7,7 +7,7 @@ date: "2016-03-28"
 doi: "10.1063/1.4944611"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-10-26"
+publishDate: "2016-03-28"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_short: "J Chem Phys"
 abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. (**Times cited = 12**)
+summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations.
 
 tags:
 - Source Themes
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
+Supplementary files can be found here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
