@@ -2,7 +2,7 @@
 title: "Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface"
 authors:
 # - admin
-- Jiao Zhang<sup>1</sup>, <b>Yongii Guan<sup>1</sup></b>, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
+- Jiao Zhang<sup>1</sup>, **<b>Yongii Guan<sup>1</sup></b>**, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
 date: "2020-05-08"
 doi: "10.1016/j.molliq.2020.113340"
 
