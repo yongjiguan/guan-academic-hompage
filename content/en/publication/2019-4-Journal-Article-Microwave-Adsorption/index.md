@@ -1,13 +1,13 @@
 ---
-title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
+title: "Microwave-Absorbing Properties of Room-Temperature Ionic Liquids"
 authors:
 # - admin
-- Qunfeng Shao, Jingjing Jia, Yongii Guan, Xiaodong He, Xiaoping Zhang.
-date: "2016-03-28"
-doi: "10.1063/1.4944611"
+- Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng.
+date: "2019-04-10"
+doi: "10.1088/1361-6463/ab016c"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-10-26"
+publishDate: "2019-04-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +16,22 @@ publishDate: "2017-10-26"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Chemical Physics, 2016, 144(12): 124703"
-publication_short: "J Chem Phys"
+publication: "Journal of Physics D: Applied Physics, 2019, 52(15): 155302"
+publication_short: "J Phys D: Appl Phys"
 
-abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
+abstract: Here, the microwave-absorbing properties of 1-ethyl-3-methylimidazolium and 1-butyl3-methylimidazolium ([E and BMIm]<sup>+</sup>-based) room-temperature ionic liquids (ILs) with different anions were systematically investigated by measuring dielectric properties in the 1–14 GHz microwave-frequency range. First, the dielectric properties of the [E and BMIm]<sup>+</sup>-based ILs were studied with a typical open-ended coaxial probe system. The results showed that the real part of permittivity ε' values decreased from 13 to 4 and the values of loss tangent decreased from 5.91 to 0.24, meaning that ILs displayed high dielectric-loss characteristics at microwave-frequency ranges. Furthermore, it was found that the conductivity loss was dominant for dielectric loss in the low-frequency band, and the polarization loss played a major role in high-frequency bands. For the same anion ILs with different cations, the permittivity became higher as the length of the alkyl chain decreased. The absorption properties of [E and BMIm]<sup>+</sup>-based ILs could be obtained based on their dielectric properties, and found the ILs absorption bands were mainly concentrated in the C band and X band. It was noted that the maximum reflection loss (RL) of [BMIm][NTf<sub>2</sub>] with a thickness of 4 mm reached −27.6 dB at 8.73 GHz, and the bandwidth of an RL less than −10 dB could be up to 4.3 GHz. The absorption peak frequency of the ILs gradually shifted to lower frequencies with increasing temperature and coating thickness, which might be caused by the change in impedance matching.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. **Times cited 12**
+summary: Here, the microwave-absorbing properties of 1-ethyl-3-methylimidazolium and 1-butyl3-methylimidazolium ([E and BMIm]<sup>+</sup>-based) room-temperature ionic liquids (ILs) with different anions were systematically investigated by measuring dielectric properties in the 1–14 GHz microwave-frequency range.(**Times cited = 4**)
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://yongjiguan.github.io/files/2019-4.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -43,7 +43,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -52,7 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Energy-Harvesting]
+projects: [Microwave-Absorption]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
+Supplementary notes can be added here, including [Additional Methods and Data](https://iopscience.iop.org/article/10.1088/1361-6463/ab016c).
