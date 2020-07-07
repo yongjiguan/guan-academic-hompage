@@ -1,5 +1,5 @@
 ---
-title: "8. Ultrabroadband Metamaterial Absorbers Based on Ionic Liquids"
+title: "8. Ultrabroadband Metamaterial Absorbers Based on Ionic Liquids (Times cited = 4)"
 authors:
 # - admin
 - Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng.
@@ -22,7 +22,7 @@ publication_short: "Appl Phys A"
 abstract: An ultrabroadband metamaterial absorber (MMAs) based on room temperature ionic liquids (ILs) and composed entirely of cations and anions was proposed and analyzed in the microwave regimen. The dielectric permittivity of the ILs [EMIm][N(CN)<sub>2</sub>] was investigated from 0.5 to 50 GHz; the loss tangent tanδ of [EMIm][N(CN)<sub>2</sub>] declines from 5.91 to 0.34, which implies a high dielectric loss of microwaves. To further improve the impedance matching over a wide band, the ILs [EMIm][N(CN)<sub>2</sub>] were injected in a periodic photopolymer cylindrical array fabricated via 3D printing. We numerically and experimentally demonstrate that this absorber shows over 90% absorption at 9.26–49 GHz when the incident angle is 45° with a relative bandwidth as high as 134.6%. Versus water-based MMAs, the proposed absorber shows more than twice the absorption bandwidth. Mechanistic investigations show that the ultrabroadband absorption characteristics of the ILs-based MMAs mainly contribute to IL dispersion and electromagnetic resonance. Furthermore, the electromagnetic wave energy loss is mainly due to the high-dielectric loss of ILs [EMIm][N(CN)<sub>2</sub>].
 
 # Summary. An optional shortened abstract.
-summary: An ultrabroadband metamaterial absorber (MMAs) based on room temperature ionic liquids (ILs) and composed entirely of cations and anions was proposed and analyzed in the microwave regimen. (**Times cited = 4**)
+summary: An ultrabroadband metamaterial absorber (MMAs) based on room temperature ionic liquids (ILs) and composed entirely of cations and anions was proposed and analyzed in the microwave regimen.
 
 tags:
 - Source Themes
