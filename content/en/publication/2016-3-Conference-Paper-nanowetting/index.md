@@ -1,7 +1,7 @@
 ---
-title: "Probing Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation"
+title: "Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation"
 authors:
-- **admin**
+- admin
 - Qunfeng Shao, Xiaoping Zhang.
 date: "2016-09-24"
 doi: ""
