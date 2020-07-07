@@ -71,4 +71,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474).
+Supplementary files can be found here, including [Additional Methods and Data](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474).
