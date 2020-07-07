@@ -32,13 +32,13 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: ''
-# url_dataset: ''
+url_code: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
+url_dataset: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
 url_poster: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+url_project: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
+url_slides: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
+url_source: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
+url_video: 'https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07474'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
