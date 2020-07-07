@@ -3,7 +3,7 @@ title: "6. Flow-Induced Voltage Generation by Driving Imidazolium-Based Ionic Li
 authors:
 - admin
 - Qunfeng Shao, Wenqiong Chen, Jiao Zhang, Xiaoping Zhang, Youquan Deng
-- Journal of Materials Chemistry A, 2018, 6(25): 11941-11950
+- Journal of Materials Chemistry A, 2018, 6(25), 11941-11950
 date: "2018-07-07"
 doi: "10.1039/c8ta02629g"
 

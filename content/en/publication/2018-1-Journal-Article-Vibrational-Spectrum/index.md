@@ -3,7 +3,7 @@ title: "5. Influence of External Electric Field on Vibrational Spectrum of Imida
 authors:
 # - admin
 - Wenqiong Chen, **Yongii Guan**, Xiaoping Zhang, Youquan Deng
-- Acta Physico-Chimica Sinica, 2018, 34(8): 912-919
+- Acta Physico-Chimica Sinica, 2018, 34(8), 912-919
 date: "2018-01-09"
 doi: "10.3866/PKU.WHXB201801091"
 

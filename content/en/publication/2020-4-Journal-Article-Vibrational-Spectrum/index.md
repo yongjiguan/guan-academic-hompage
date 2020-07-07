@@ -2,7 +2,8 @@
 title: "15. In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation (Times cited = 0)"
 authors:
 - admin
-- Jiao Zhang, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
+- Jiao Zhang, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng
+- Journal of Molecular Liquids, 2020, 311, 113353
 date: "2020-05-09"
 doi: "10.1016/j.molliq.2020.113353"
 

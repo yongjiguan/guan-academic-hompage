@@ -3,7 +3,7 @@ title: "1. Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids 
 authors:
 # - admin
 - Qunfeng Shao, Jingjing Jia, **Yongii Guan**, Xiaodong He, Xiaoping Zhang
-- The Journal of Chemical Physics, 2016, 144(12): 124703
+- The Journal of Chemical Physics, 2016, 144(12), 124703
 date: "2016-03-28"
 doi: "10.1063/1.4944611"
 

@@ -2,7 +2,8 @@
 title: "11. Microwave-Absorbing Properties of Room-Temperature Ionic Liquids (Times cited = 4)"
 authors:
 # - admin
-- Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng.
+- Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng
+- Journal of Physics D-Applied Physics, 2019, 52(15), 155302
 date: "2019-04-10"
 doi: "10.1088/1361-6463/ab016c"
 

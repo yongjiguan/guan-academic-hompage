@@ -2,7 +2,8 @@
 title: "8. Ultrabroadband Metamaterial Absorbers Based on Ionic Liquids (Times cited = 4)"
 authors:
 # - admin
-- Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng.
+- Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng
+- Applied Physics A , 2019, 125(2), 149
 date: "2019-02-01"
 doi: "10.1007/s00339-019-2443-x"
 

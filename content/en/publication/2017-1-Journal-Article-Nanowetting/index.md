@@ -3,7 +3,7 @@ title: "4. Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based I
 authors:
 - admin
 - Qunfeng Shao, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, Youquan Deng
-- The Journal of Physical Chemistry C, 2017, 121(42): 23716-23726
+- The Journal of Physical Chemistry C, 2017, 121(42), 23716-23726
 date: "2017-10-26"
 doi: "10.1021/acs.jpcc.7b07474"
 

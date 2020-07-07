@@ -2,7 +2,8 @@
 title: "10. Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting (Times cited = 1)"
 authors:
 - admin
-- Wenqiong Chen, Jiao Zhang, Fulong Yang, Chao Du, Xiaoping Zhang, Youquan Deng.
+- Wenqiong Chen, Jiao Zhang, Fulong Yang, Chao Du, Xiaoping Zhang, Youquan Deng
+- The Journal of Physical Chemistry C, 2019, 123(12), 6981-6988
 date: "2019-03-28"
 doi: "10.1021/acs.jpcc.7b07474"
 

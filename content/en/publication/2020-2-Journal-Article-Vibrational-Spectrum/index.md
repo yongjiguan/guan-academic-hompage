@@ -2,7 +2,8 @@
 title: "13. Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field (Times cited = 0)"
 authors:
 # - admin
-- Wenqiong Chen, **Yongii Guan**, Jiao Zhang, Junjie Pei, Xiaoping Zhang, Youquan Deng.
+- Wenqiong Chen, **Yongii Guan**, Jiao Zhang, Junjie Pei, Xiaoping Zhang, Youquan Deng
+- Acta Physico-Chimica Sinica, 2020, 36(X), 2001004
 date: "2020-03-19"
 doi: "10.3866/PKU.WHXB202001004 "
 
