@@ -24,10 +24,11 @@ date_format = "Jan 2006"
   title = "World University Rankings"
   url = ""
   certificate_url = "https://www.coursera.org"
+  Quacquarelli Symonds (QS)_url = "https://www.topuniversities.com/qs-world-university-rankings"
   date_start = "2018-10-01"
   date_end = ""
   description = "* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)"
-  description1 = "* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)"
+  
 
 [[item]]
   organization = "edX"
