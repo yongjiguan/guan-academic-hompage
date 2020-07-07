@@ -41,8 +41,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = 
-  """
+  description = """
   * [LAMMPS](https://lammps.sandia.gov/)
   * [GROMACS](http://www.gromacs.org/)
   * [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
