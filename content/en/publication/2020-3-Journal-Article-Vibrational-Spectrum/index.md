@@ -1,5 +1,5 @@
 ---
-title: "Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface"
+title: "14. Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface (Times cited = 0)"
 authors:
 # - admin
 - Jiao Zhang$^{1}$, **Yongii Guan$^{1}$**, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
@@ -22,7 +22,7 @@ publication_short: "J Mol Liqs"
 abstract: Ionic liquids (ILs) are promising novel solvents for energy harvesting and understanding the graphene/ILs interface structural characteristics is required. In this study, we calculate the vibrational spectrum (VS) of 1-ethyl-3-methylimidazolium tetrafluoroborate ([Emim][BF$_{4}$]) pair on graphene surface in the range from 10 to 3500 cm$^{-1}$ and systemically investigate the influence of the graphene on the VS of [Emim][BF$_{4}$] using density functional theory. The results show 24 vibrational bands (VBs) with obvious shifting. The VBs at 3170.26 and 3033.51 cm$^{-1}$ show a redshift of 59.46 and 14.95 cm$^{-1}$ respectively which was mainly caused by the enhanced hydrogen bond strength of C$_{2}$H···F and F atoms with the CH on the ethyl chain. The VBs at 101.49 and 1417.43 cm$^{-1}$ show a blueshift of 62.43 and 23.86 cm$^{-1}$ due to the enhancement of induction effect of [Emim][BF$_{4}$] on graphene surface (from −44.68 to −45.42 kJ mol$^{-1}$). The VB at 86.91 cm$^{-1}$ shows a redshift of 59.43 cm$^{-1}$ which can be ascribed to the reduction of the whole interaction energy between the cation and anion of [Emim][BF$_{4}$] on graphene surface (from −367.06 to −356.06 kJ·mol$^{-1}$). Overall, these shifts of the VS are mainly attributed to the attraction between graphene and anion [BF$_{4}$]$^{-1}$, which is dominated by the induction and dispersion interaction accounting for 63.43% and 34.37% of the attraction interaction respectively. Due to this attraction, the anion [BF$_{4}$]$^{-1}$ move closer to the surface of graphene.
 
 # Summary. An optional shortened abstract.
-summary: The influence of the graphene on the vibrational spectrum of [Emim][BF$_{4}] pair in the range from 10 to 3500 cm$^{-1}$ is systemically investigated using density functional theory. (**Times cited = 0**)
+summary: The influence of the graphene on the vibrational spectrum of [Emim][BF$_{4}] pair in the range from 10 to 3500 cm$^{-1}$ is systemically investigated using density functional theory.
 
 tags:
 - Source Themes
