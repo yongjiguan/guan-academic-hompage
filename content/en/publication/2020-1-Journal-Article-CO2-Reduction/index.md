@@ -3,7 +3,7 @@ title: "12. Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N He
 authors:
 # - admin
 - Jinyuan Wang, **Yongji Guan**, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing
-- iScience, 2020, 23 (1), 100768-100768
+- iScience, 2020, 23(1), 100768-100768
 date: "2019-12-12"
 doi: "10.1016/j.isci.2019.100768"
 
@@ -17,7 +17,7 @@ publishDate: "2019-12-12"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "iScience, 2020, 23 (1): 100768-100768"
+publication: "iScience, 2020, 23(1), 100768-100768"
 publication_short: "iScience"
 
 abstract: Nowadays, photoelectrocatalytic (PEC) reduction of CO$_{2}$  represents a very promising solution for storing solar energy in value-added chemicals, but so far it has been hampered by the lack of highly efficient catalyst of photocathode. Enlightened by the Calvin cycle of plants, here we show that a series of three-dimensional C/N-doped heterojunctions of Zn$_{x}$:Co$_{y}$@Cu are successfully fabricated and applied as photocathodes in the PEC reduction of CO$_{2}$ to generate paraffin product. These materials integrate semiconductors of p-type Co$_{3}$O$_{4}$ and n-type ZnO on Cu foam to construct fine heterojunctions with multiple active sites, which result in excellent C-C coupling control in reduction of CO$_{2}$. The best catalyst of Zn$_{0.2}$:Co$_{1}$@Cu yields paraffin at a rate of 325 ug h$^{-1}$ under 0.4V versus saturated calomel electrode without H$_{2}$ release. The apparent quantum efficiency of PEC cell is up to 1.95%.
