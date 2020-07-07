@@ -71,4 +71,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://iopscience.iop.org/article/10.1149/2.0701904jes).
+Supplementary files can be found here, including [Additional Methods and Data](https://iopscience.iop.org/article/10.1149/2.0701904jes).
