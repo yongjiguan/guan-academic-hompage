@@ -43,8 +43,8 @@ url_pdf: https://yongjiguan.github.io/files/2016-1.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: ''
+  focal_point: "smart"
   preview_only: false
 
 # Associated Projects (optional).
