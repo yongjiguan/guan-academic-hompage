@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://github.com/yongjiguan/guan-academic-hompage/raw/master/static/Doc/Curriculum%20Vitae.pdf"
+- url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
   label : "Download CV"
 
 # Is this the primary user of the site?
