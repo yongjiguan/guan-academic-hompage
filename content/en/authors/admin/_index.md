@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow &nbsp;
+role: Postdoc Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
   url: "https://www.imperial.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yongji Guan is currently a postdoc of Physical chemistry who specializes in the theoretical caculation of ionic liquids.
+bio: Yongji Guan is currently a postdoc research fellow of Physical chemistry who specializes in the theoretical caculation of ionic liquids.
 
 # Should the user's education and interests be displayed?
 display_education: true
