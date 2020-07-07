@@ -1,5 +1,5 @@
 ---
-title: "2. Near Infrared Plasmonic Optical Trapping Based on Hybrid Metal Nanorod (Times cited = 0)"
+title: "3. Near Infrared Plasmonic Optical Trapping Based on Hybrid Metal Nanorod (Times cited = 0)"
 authors:
 - Zhiyun Li, Zhinan Wang, Pengfei Cao, **Yongii Guan**, Lin Chen, Linshan Chen
 - 2016 Progress in Electromagnetic Research Symposium (PIERS), 2016: 727-731
