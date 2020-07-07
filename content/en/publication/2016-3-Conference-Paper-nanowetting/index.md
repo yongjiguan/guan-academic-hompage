@@ -22,7 +22,7 @@ publication_short: In *8th-ICMS&I*
 abstract: In this work, the nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations. 
 
 # Summary. An optional shortened abstract.
-summary: The nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations in this work. I made **oral presentations and poster presentations** at the meeting.(**Times cited = 0**)
+summary: The nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations in this work. I made **oral presentations and poster presentations** at the meeting. (**Times cited = 0**)
 
 tags:
 - Source Themes
