@@ -1,13 +1,13 @@
 ---
-title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
+title: "In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation"
 authors:
-# - admin
-- Qunfeng Shao, Jingjing Jia, Yongii Guan, Xiaodong He, Xiaoping Zhang.
-date: "2016-03-28"
-doi: "10.1063/1.4944611"
+- admin
+- Jiao Zhang, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
+date: "2020-05-09"
+doi: "10.1016/j.molliq.2020.113353"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-10-26"
+publishDate: "2020-05-09"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: "2017-10-26"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Chemical Physics, 2016, 144(12): 124703"
-publication_short: "J Chem Phys"
+publication: "Journal of Molecular Liquids, 2020, 311, 113353"
+publication_short: "J Mol Liqs"
 
-abstract: In this work, the phenomenon of the voltage generation is explored by using the molecular dynamics simulations, which is performed by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet for the first time. The studies show that the cations and anions of the droplet will move with velocity nonlinearly increasing to saturation arising by the force balance. The traditional equation for calculating the induced voltage is developed by taking the charge density into consideration, and larger induced voltages in µV-scale are obtained from the nano-size simulation systems based on the ionic liquids (ILs) for its enhanced ionic drifting velocities. It is also derived that the viscosity acts as a reduction for the induced voltage by comparing systems composed of two types of ILs with different viscosity and temperature.
+abstract: Understanding dynamic change of ionic liquid (IL) THz spectrum under certain conditions is a real challenge. Herein, through spreading 1-butyl-3-methylimidazolium dicyanamide ([Bmim][DCA]) nanodroplet on graphene surface, dynamic change of [Bmim][DCA] THz spectrum in the range from 30 to 300 cm<sup>-1</sup> is probed by computational calculation at 300 K. Analyzing the calculated THz spectra it can be found that vibrational bands at 49.95 (cation-anion bend), 216.45 cm<sup>-1</sup> (rocking of CH3 in alkyl chain) show a 16.65 cm<sup>-1</sup> blue shift as spreading time increases from 0 to 5 ns and further blue-shift 16.65 cm<sup>-1</sup> as spreading time increases from 10 to 20 ns, while vibrational band at 266.40 cm<sup>-1</sup> (bend of CH<sub>3</sub> in methyl) only blue-shifts 16.65 cm<sup>-1</sup> as spreading time increases from 0 to 20 ns. The underlying mechanism is revealed to be the stronger adsorbed layer forming on graphene-IL interface which enhances the hydrogen bonds between cations and anions, and constrains the torsion and out-of-plane bend of CH3 group in alkyl chain and methyl respectively. The findings described here represent an important step in developing a comprehensive understanding of dynamic manipulation IL THz spectrum by spreading IL nanodroplet on graphene surface.
 
 # Summary. An optional shortened abstract.
-summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. **Times cited 12**
+summary: Herein, through spreading 1-butyl-3-methylimidazolium dicyanamide ([Bmim][DCA]) nanodroplet on graphene surface, dynamic change of [Bmim][DCA] THz spectrum in the range from 30 to 300 cm<sup>-1</sup> is probed by computational calculation at 300 K. (**Times cited = 0**)
 
 tags:
 - Source Themes
@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://yongjiguan.github.io/files/2020-4.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
@@ -43,7 +43,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -52,7 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Energy-Harvesting]
+projects: [Vibrational-Spectrum]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://aip.scitation.org/doi/10.1063/1.4944611).
+Supplementary notes can be added here, including [Additional Methods and Data](https://www.sciencedirect.com/science/article/abs/pii/S0167732220315567?via%3Dihub).
