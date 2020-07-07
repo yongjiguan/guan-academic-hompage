@@ -73,4 +73,3 @@ Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary files can be found here, including [Additional Methods and Data]().
-
