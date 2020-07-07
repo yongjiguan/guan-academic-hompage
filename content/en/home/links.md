@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-01"
   date_end = ""
   description = "* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)"
-  description = "* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)"
+  description1 = "* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)"
 
 [[item]]
   organization = "edX"
