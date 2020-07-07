@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Yongji Guan
-avatar_image: "GYJ.jpg"
+avatar_image: "/hero/GYJ-full-2.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
