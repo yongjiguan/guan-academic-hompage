@@ -1,5 +1,5 @@
 ---
-title: "Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions"
+title: "12 Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions (**Times cited = 2**)"
 authors:
 # - admin
 - Jinyuan Wang, **Yongji Guan**, Xiaogang Yu, Youzhi Cao, Jiazang Chen, Yilin Wang, Bin Hu, Huanwang Jing
