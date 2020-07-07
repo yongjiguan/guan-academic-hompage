@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   title = "Molecular Dynamics Softwares"
   url = ""
   certificate_url = ""
-  date_start = "2020-03-01"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   * [LAMMPS](https://lammps.sandia.gov/)
