@@ -30,7 +30,7 @@ featured: flase
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://yongjiguan.netlify.app/static/Doc/2016-2.pdf #https://yongjiguan.github.io/files/2016-2.pdf
+url_pdf: https://yongjiguan.github.io/files/2016-2.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
