@@ -21,12 +21,15 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "World University Rankings"
   url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "* [Quacquarelli Symonds (QS)](https://www.topuniversities.com/qs-world-university-rankings)
+* [Times Higher Education (THE)](https://www.timeshighereducation.com/world-university-rankings)
+* [Shanghai Ranking (ARWU)](http://www.shanghairanking.com/)
+* [U.S. News & World Report (U.S. News)](https://www.usnews.com/education/best-global-universities/rankings)"
 
 [[item]]
   organization = "edX"
