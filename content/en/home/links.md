@@ -42,21 +42,21 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = """
-				* [LAMMPS](https://lammps.sandia.gov/)
-				* [GROMACS](http://www.gromacs.org/)
-				* [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
-				* [NAMD](https://www.ks.uiuc.edu/Research/namd/)
-				* [TINKER](https://dasher.wustl.edu/tinker/)
-				* [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
-				* [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)
-				"""
+	* [LAMMPS](https://lammps.sandia.gov/)
+	* [GROMACS](http://www.gromacs.org/)
+	* [DL_POLY](https://www.scd.stfc.ac.uk/Pages/DL_POLY.aspx)
+	* [NAMD](https://www.ks.uiuc.edu/Research/namd/)
+	* [TINKER](https://dasher.wustl.edu/tinker/)
+	* [MDynaMix](http://www.fos.su.se/~sasha/mdynamix/) 
+	* [Others](https://en.wikipedia.org/wiki/Comparison_of_software_for_molecular_mechanics_modeling)
+	"""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Computational Calculations"
+  organization_url = ""
+  title = "Quantum Chemistry Softwares"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
