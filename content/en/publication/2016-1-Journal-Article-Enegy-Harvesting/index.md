@@ -2,7 +2,7 @@
 title: "Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation"
 authors:
 # - admin
-- Qunfeng Shao, Jingjing Jia, Yongii Guan, Xiaodong He, Xiaoping Zhang.
+- Qunfeng Shao, Jingjing Jia, **Yongii Guan**, Xiaodong He, Xiaoping Zhang.
 date: "2016-03-28"
 doi: "10.1063/1.4944611"
 
@@ -23,8 +23,6 @@ abstract: In this work, the phenomenon of the voltage generation is explored by 
 
 # Summary. An optional shortened abstract.
 summary: This work mainly focuses on exploring the phenomenon of the voltage generation by driving a nano-sized droplet of room temperature ionic liquids moving along the monolayer graphene sheet using the molecular dynamics simulations. **Times cited 12**
-
-summary: **Times cited 12**
 
 tags:
 - Source Themes
