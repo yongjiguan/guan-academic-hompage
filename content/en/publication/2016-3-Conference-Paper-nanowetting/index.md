@@ -1,8 +1,9 @@
 ---
-title: "Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation"
+title: "3. Probing Nano-Wettability of Hydrophilic/Hydrophobic Ionic Liquids Using Molecular Dynamics Simulation (Times cited = 0)"
 authors:
 - admin
 - Qunfeng Shao, Xiaoping Zhang.
+- The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I), Dalian, China, 2016.9.24-2016.9.26
 date: "2016-09-24"
 doi: ""
 
@@ -16,13 +17,13 @@ publishDate: "2016-09-24"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 8th International Conference on Molecular Simulations and Informatics Technology Application*
+publication: In *The 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I), Dalian, China, 2016.9.24-2016.9.26*
 publication_short: In *8th-ICMS&I*
 
 abstract: In this work, the nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations. 
 
 # Summary. An optional shortened abstract.
-summary: The nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations in this work. I made **oral presentations and poster presentations** at the meeting. (**Times cited = 0**)
+summary: The nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations in this work. I made **oral presentations and poster presentations** at the meeting.
 
 tags:
 - Source Themes
@@ -71,5 +72,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary files can be found here, including [Additional Methods and Data]().
 
