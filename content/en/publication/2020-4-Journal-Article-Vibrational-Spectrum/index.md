@@ -1,5 +1,5 @@
 ---
-title: "In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation"
+title: "In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation"
 authors:
 - admin
 - Jiao Zhang, Jinyuan Wang, Fulong Yang, Huanwang Jing, Xiaoping Zhang, Youquan Deng.
