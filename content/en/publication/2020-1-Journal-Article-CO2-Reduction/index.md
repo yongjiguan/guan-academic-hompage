@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [Additional Methods and Data](https://www.sciencedirect.com/science/article/pii/S2589004219305139).
+Supplementary files can be found here, including [Additional Methods and Data](https://www.sciencedirect.com/science/article/pii/S2589004219305139).
