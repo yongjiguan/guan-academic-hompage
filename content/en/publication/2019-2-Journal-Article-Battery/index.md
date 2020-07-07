@@ -1,5 +1,5 @@
 ---
-title: "Highly Efficient and Non-Precious Metal for the Li-SOCl<sub>2</sub> Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles"
+title: "9. Highly Efficient and Non-Precious Metal for the Li-SOCl<sub>2</sub> Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles"
 authors:
 # - admin
 - Chao Du, **Yongii Guan**, Shimin Liu, Wenpeng Ni, Junjie Pei, Wei Zhang, Xiaoping Zhang, Youquan Deng.
