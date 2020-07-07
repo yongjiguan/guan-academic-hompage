@@ -44,7 +44,7 @@ url_pdf: https://yongjiguan.github.io/files/2016-1.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: "smart"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
