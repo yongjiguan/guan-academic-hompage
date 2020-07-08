@@ -1,7 +1,7 @@
 ---
 title: 'The 12th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 12th Journal paper In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation is accepted by Journal of Molecular Liquids.
+summary: The 12th Journal paper \textbf{In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation} is accepted by \textbf{Journal of Molecular Liquids}.
 authors:
 - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: '8th-ICMS&I'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: I attent the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) and give oral and poster prentation in Dalian, China.
+summary: I attent the \textbf{8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)} and \textbf{give oral and poster prentations} in Dalian, China.
 authors:
 - admin
 tags:
