@@ -40,16 +40,11 @@ gallery_item:
   image: 2018-3.png
 ---
 
-## Graduation Photoes
+**The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)** is held in **Tottori, Japan**. I and my advisor Prof. Xiaopiang Zhang, Prof. Youquan Deng attend the Conference and I give **oral and poster presentation** on Oct. 1, 2018.
 
-Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study in [School of Information Science and Engineering, Lanzhou University](http://www.lzu.edu.cn/)!
+## Conference Photoes
 
-In this happy day, I want to thank the teacher who answered my questions, the family who silently supported me, and all the friends and classmates who helped me.
-
-My graduation photoes are shown as following:
-
-- **Communication Engineering (Class I)** 
-- **School of Information Science and Engineering (2014 undergraduate student)** 
+The related confercence photoes are shown as following:
 
 {{< gallery >}}
 

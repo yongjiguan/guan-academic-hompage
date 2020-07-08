@@ -37,16 +37,7 @@ gallery_item:
   image: 2014-2.png
 ---
 
-## Graduation Photoes
-
-Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study in [School of Information Science and Engineering, Lanzhou University](http://www.lzu.edu.cn/)!
-
-In this happy day, I want to thank the teacher who answered my questions, the family who silently supported me, and all the friends and classmates who helped me.
-
-My graduation photoes are shown as following:
-
-- **Communication Engineering (Class I)** 
-- **School of Information Science and Engineering (2014 undergraduate student)** 
+The 3th Journal paper **Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation** is accepted by **Acta Physico-Chimica Sinica**.
 
 {{< gallery >}}
 
