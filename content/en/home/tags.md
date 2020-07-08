@@ -7,7 +7,7 @@ weight = 140  # Order that this section will appear.
 
 title = "Popular Topics"
 subtitle = ""
-draft = true
+draft = false
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
