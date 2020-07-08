@@ -3,7 +3,7 @@ title: Battery
 summary: Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles
 tags:
 - Demo
-date: "2014-09-10"
+date: "2019-03-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
