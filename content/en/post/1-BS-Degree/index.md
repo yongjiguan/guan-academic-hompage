@@ -30,29 +30,11 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Graduation Photo - Communication Engineering (Class I)
+  caption: Graduation Photo
   image: 2014-1.png
 - album: gallery
-  caption: Graduation Photo - School of Information Science and Engineering (2014 undergraduate student)
+  caption: Graduation Photo
   image: 2014-2.png
-- album: gallery
-  caption: Forest
-  image: theme-forest.png
-- album: gallery
-  caption: Dark
-  image: theme-dark.png
-- album: gallery
-  caption: Apogee
-  image: theme-apogee.png
-- album: gallery
-  caption: 1950s
-  image: theme-1950s.png
-- album: gallery
-  caption: Coffee theme with Playfair font
-  image: theme-coffee-playfair.png
-- album: gallery
-  caption: Strawberry
-  image: theme-strawberry.png
 ---
 
 ## Graduation Photoes
