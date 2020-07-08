@@ -15,7 +15,7 @@ subtitle = "Everything in this world is temporary and eternal"
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 6
   
   # Choose how many pages you would like to offset by
   offset = 0
