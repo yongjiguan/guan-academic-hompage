@@ -45,12 +45,12 @@ In this happy day, I want to thank the teacher who answered my questions, the fa
 
 My graduation photoes are shown as following:
 
-- **Communication Engineering (Class I)** -
-- **School of Information Science and Engineering (2014 undergraduate student)** -
+- **Communication Engineering (Class I)** 
+- **School of Information Science and Engineering (2014 undergraduate student)** 
 
 {{< gallery >}}
 
 ## License
 
-Copyright © 2014-2020 Yongji Guan
+Copyright 2014-2020 Yongji Guan
 
