@@ -1,5 +1,5 @@
 ---
-title: 'B.S. Degree'
+title: 'APCIL-6'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - academia
 categories: []
-date: "2014-06-18"
-lastmod: "2020-07-08"
+date: "2018-10-31"
+lastmod: "2018-10-31"
 featured: false
 draft: false
 
@@ -31,10 +31,13 @@ projects: []
 gallery_item:
 - album: gallery
   caption: Graduation Photo
-  image: 2014-1.png
+  image: 2018-1.png
 - album: gallery
   caption: Graduation Photo
-  image: 2014-2.png
+  image: 2018-2.png
+- album: gallery
+  caption: Graduation Photo
+  image: 2018-3.png
 ---
 
 ## Graduation Photoes

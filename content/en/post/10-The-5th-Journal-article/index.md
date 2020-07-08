@@ -1,5 +1,5 @@
 ---
-title: 'B.S. Degree'
+title: 'The 5th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
 authors:
@@ -7,8 +7,8 @@ authors:
 tags:
 - academia
 categories: []
-date: "2014-06-18"
-lastmod: "2020-07-08"
+date: "2019-01-04"
+lastmod: "2019-01-04"
 featured: false
 draft: false
 
