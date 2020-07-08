@@ -1,7 +1,7 @@
 ---
 title: 'Poctdoc Scholarship'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: I obtain the International Teacher Postdoctoral Scholarship Fund of Lanzhou University in School of Information Science and Engineering, Lanzhou University, China.
+summary: I obtain the \textbf{International Teacher Postdoctoral Scholarship Fund} of Lanzhou University in School of Information Science and Engineering, Lanzhou University, China.
 authors:
 - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'The 7th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 7th Journal paper Ultrabroadband metamaterial absorbers based on ionic liquids is accepted by Appl Phys A.
+summary: The 7th Journal paper \textbf{Ultrabroadband metamaterial absorbers based on ionic liquids} is accepted by \textbf{Appl Phys A}.
 authors:
 - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'The 3rd Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 3th Journal paper Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation is accepted by Acta Physico-Chimica Sinica.
+summary: The 3th Journal paper \textbf{Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation} is accepted by \textbf{Acta Physico-Chimica Sinica}.
 authors:
 - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'The 6th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 6th Journal paper Microwave-Absorbing Properties of Room-Temperature Ionic Liquids is accepted by J Phys Chem C.
+summary: The 6th Journal paper \textbf{Microwave-Absorbing Properties of Room-Temperature Ionic Liquids} is accepted by \textbf{J Phys Chem C}.
 authors:
 - admin
 tags:

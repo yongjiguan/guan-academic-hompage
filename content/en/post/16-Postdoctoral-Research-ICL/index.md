@@ -1,7 +1,7 @@
 ---
 title: 'Postdoc Research ICL'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: I start my postdoctoral research in Prof. Welton's group at molecular science research hub in department of chemistry, Imperial College London, UK.
+summary: I start my \textbf{postdoctoral research} in Prof. Welton's group at molecular science research hub in department of chemistry, \textbf{Imperial College London}, UK.
 authors:
 - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'The 2nd Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 2th Journal paper Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation is accepted by J Phys Chem C.
+summary: The 2th Journal paper \textbf{Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation} is accepted by \textbf{J Phys Chem C}.
 authors:
 - admin
 tags:

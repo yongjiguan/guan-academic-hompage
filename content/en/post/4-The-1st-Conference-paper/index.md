@@ -1,7 +1,7 @@
 ---
 title: 'The 1st Conference Paper'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 1st Conference paper Near infrared plasmonic optical trapping based on hybrid metal nanorod is added to IEEE Xplore.
+summary: The 1st Conference paper \textbf{Near infrared plasmonic optical trapping based on hybrid metal nanorod} is added to \textbf{IEEE Xplore}.
 authors:
 - admin
 tags:

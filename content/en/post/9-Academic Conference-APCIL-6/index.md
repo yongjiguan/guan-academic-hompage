@@ -1,7 +1,7 @@
 ---
 title: 'APCIL-6'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: I take part in the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) and give oral and poster prentation in Tottori, Japan.
+summary: I take part in the \textbf{6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)}and make \textbf{oral and poster prentations} in Tottori, Japan.
 authors:
 - admin
 tags:
