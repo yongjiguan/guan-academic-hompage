@@ -1,10 +1,10 @@
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $taxonomy := $st.Params.content.taxonomy | default "tags" }}
-{{ $fontSmall := $st.Params.design.font_size_min | default 0.8 }}
-{{ $fontBig := $st.Params.design.font_size_max | default 2.5 }}
+{{ $taxonomy := $page.Params.content.taxonomy | default "tags" }}
+{{ $fontSmall := $page.Params.design.font_size_min | default 0.8 }}
+{{ $fontBig := $page.Params.design.font_size_max | default 2.5 }}
 
-{{ $items_count := $st.Params.content.count }}
+{{ $items_count := $page.Params.content.count }}
 {{ if eq $items_count 0 }}
   {{ $items_count = 65535 }}
 {{ else }}
