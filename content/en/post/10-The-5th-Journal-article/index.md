@@ -1,7 +1,7 @@
 ---
 title: 'The 5th Journal Article'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 5th Journal paper \textbf{Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting} is accepted by \textbf{J Phys Chem C}.
+subtitle: ''
+summary: The 5th Journal paper Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting is accepted by J Phys Chem C.
 authors:
 - admin
 tags:

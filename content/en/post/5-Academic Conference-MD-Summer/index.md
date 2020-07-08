@@ -1,7 +1,7 @@
 ---
 title: 'MD Summer Conference'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: I attend the \textbf{2017-Lammps Molecular Dynamics Simulation Summer Application Technology Conference} in conference center of Beijing Institute of Applied Physics and Computational Mathematics, Beijing, China.
+subtitle: ''
+summary: I attend the 2017-Lammps Molecular Dynamics Simulation Summer Application Technology Conference in conference center of Beijing Institute of Applied Physics and Computational Mathematics, Beijing, China.
 authors:
 - admin
 tags:

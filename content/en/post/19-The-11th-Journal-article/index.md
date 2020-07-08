@@ -1,7 +1,7 @@
 ---
 title: 'The 11th Journal Article'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 11th Journal paper \textbf{Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface} is accepted by \textbf{Journal of Molecular Liquids}.
+subtitle: ''
+summary: The 11th Journal paper Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface is accepted by Journal of Molecular Liquids.
 authors:
 - admin
 tags:

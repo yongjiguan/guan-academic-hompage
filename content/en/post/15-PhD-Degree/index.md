@@ -1,7 +1,7 @@
 ---
 title: 'Ph.D. Degree'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: I complet my \textbf{PhD dissertation defense} and then \textbf{receive my PhD} in School of Information Science and Engineering, Lanzhou University, China.
+subtitle: ''
+summary: I complet my PhD dissertation defense and then receive my PhD in School of Information Science and Engineering, Lanzhou University, China.
 authors:
 - admin
 tags:

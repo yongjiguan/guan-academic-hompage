@@ -1,7 +1,7 @@
 ---
 title: 'The 10th Journal Article'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 10th Journal paper \textbf{Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field} is accepted by \textbf{Acta Physico-Chimica Sinica}.
+subtitle: ''
+summary: The 10th Journal paper Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field is accepted by Acta Physico-Chimica Sinica.
 authors:
 - admin
 tags:

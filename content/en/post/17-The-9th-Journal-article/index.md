@@ -1,7 +1,7 @@
 ---
 title: 'The 9th Journal Article'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: The 9th Journal paper \textbf{Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions} is accepted by \textbf{iScience}.
+subtitle: ''
+summary: The 9th Journal paper Photoelectrocatalytic Reduction of CO2 to Paraffin Using P-N Heterojunctions is accepted by iScience.
 authors:
 - admin
 tags:
