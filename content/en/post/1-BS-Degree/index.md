@@ -1,14 +1,14 @@
 ---
-title: 'academia: the website builder for Hugo'
+title: 'B.S. Degree'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
 authors:
 - admin
 tags:
 - academia
 categories: []
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2014-06-18"
+lastmod: "2020-07-08"
 featured: false
 draft: false
 
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
