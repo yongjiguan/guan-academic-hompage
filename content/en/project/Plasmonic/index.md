@@ -1,6 +1,6 @@
 ---
 title: Plasmonic
-summary: Microwave Absorbing Properties of Ionic Liquids based materials and structures.
+summary: Near Infrared Plasmonic Resonance Optical Trapping Based on Hybrid Metal Nanorod.
 tags:
 - Demo
 date: "2014-09-10"

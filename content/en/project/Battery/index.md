@@ -1,6 +1,6 @@
 ---
 title: Battery
-summary: Microwave Absorbing Properties of Ionic Liquids based materials and structures.
+summary: Highly Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles
 tags:
 - Demo
 date: "2014-09-10"
