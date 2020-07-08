@@ -1,6 +1,6 @@
 ---
 title: Microwave Absorption
-summary: Microwave Absorbing Properties of Ionic Liquids based materials and structures.
+summary: Microwave Absorbing Properties of Ionic Liquids and structures based on Ionic liquids.
 tags:
 - Demo
 date: "2018-04-10"
