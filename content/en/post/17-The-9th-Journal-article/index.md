@@ -1,7 +1,7 @@
 ---
 title: 'The 9th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 9th Journal paper Photoelectrocatalytic Reduction of CO2 to Paraffin Using P-N Heterojunctions is accepted by iScience.
 authors:
 - admin
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 'The 1st Conference Paper'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 1st Conference paper Near infrared plasmonic optical trapping based on hybrid metal nanorod is added to IEEE Xplore.
 authors:
 - admin
 tags:

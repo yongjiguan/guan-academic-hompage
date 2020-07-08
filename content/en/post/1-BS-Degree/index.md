@@ -1,7 +1,7 @@
 ---
 title: 'B.S. Degree'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: I receive my **B.S. degree** through my own efforts and qualified for a **direct postgraduate study** in School of Information Science and Engineering, Lanzhou University, China.
 authors:
 - admin
 tags:

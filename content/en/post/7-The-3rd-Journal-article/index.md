@@ -1,7 +1,7 @@
 ---
 title: 'The 3rd Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 3th Journal paper Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation is accepted by Acta Physico-Chimica Sinica.
 authors:
 - admin
 tags:

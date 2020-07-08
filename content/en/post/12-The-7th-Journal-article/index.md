@@ -1,7 +1,7 @@
 ---
 title: 'The 7th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 7th Journal paper Ultrabroadband metamaterial absorbers based on ionic liquids is accepted by Appl Phys A.
 authors:
 - admin
 tags:

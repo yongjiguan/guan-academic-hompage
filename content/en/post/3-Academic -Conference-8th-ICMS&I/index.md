@@ -1,7 +1,7 @@
 ---
 title: '8th-ICMS&I'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: I attent the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) and give oral and poster prentation in Dalian, China.
 authors:
 - admin
 tags:

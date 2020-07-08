@@ -1,7 +1,7 @@
 ---
 title: 'The 11th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 11th Journal paper Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface is accepted by Journal of Molecular Liquids.
 authors:
 - admin
 tags:

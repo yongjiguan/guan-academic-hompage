@@ -1,7 +1,7 @@
 ---
 title: 'The 1st Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 1st Journal paper Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet: Molecular Dynamics Simulation is accepted by The Journal of Chemical Physics.
 authors:
 - admin
 tags:

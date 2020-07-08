@@ -1,7 +1,7 @@
 ---
 title: 'APCIL-6'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: I take part in the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) and give oral and poster prentation in Tottori, Japan.
 authors:
 - admin
 tags:

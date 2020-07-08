@@ -1,7 +1,7 @@
 ---
 title: 'The 8th Journal Article'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study.
+summary: The 8th Journal paper Highly Efficient and Non-Precious Metal for the Li-SOCl2 Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles is accepted by J Electrochem Soc.
 authors:
 - admin
 tags:
