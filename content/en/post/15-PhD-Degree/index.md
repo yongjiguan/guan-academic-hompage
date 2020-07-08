@@ -30,13 +30,13 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Graduation Photo
+  caption: PhD candidate and reviewers
   image: 2019-1.png
 - album: gallery
-  caption: Graduation Photo
+  caption: My doctoral dissertation defense photo
   image: 2019-2.png
 - album: gallery
-  caption: Graduation Photo
+  caption: School of Information Science and Engineering
   image: 2019-3.png
 ---
 

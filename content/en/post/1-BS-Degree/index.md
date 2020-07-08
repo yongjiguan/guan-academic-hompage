@@ -30,10 +30,10 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Graduation Photo
+  caption: Communication Engineering Class I
   image: 2014-1.png
 - album: gallery
-  caption: Graduation Photo
+  caption: 2014 undergraduate student in School of Information Science and Engineering
   image: 2014-2.png
 ---
 
