@@ -31,10 +31,10 @@ projects: []
 gallery_item:
 - album: gallery
   caption: Default
-  image: theme-default.png
+  image: 2014-1.png
 - album: gallery
   caption: Ocean
-  image: theme-ocean.png
+  image: 2014-2.png
 - album: gallery
   caption: Forest
   image: theme-forest.png
