@@ -19,7 +19,7 @@
 {{ $count := len $tags }}
 
 <div class="row">
-  <div class="text-center section-heading">
+  <div class="col-12 text-center section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
