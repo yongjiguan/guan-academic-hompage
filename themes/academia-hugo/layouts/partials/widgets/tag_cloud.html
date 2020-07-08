@@ -1,5 +1,20 @@
 {{ $ := .root }}
 {{ $page := .page }}
+{{ $taxonomy := $st.Params.content.taxonomy | default "tags" }}
+{{ $fontSmall := $st.Params.design.font_size_min | default 0.8 }}
+{{ $fontBig := $st.Params.design.font_size_max | default 2.5 }}
+
+{{ $items_count := $st.Params.content.count }}
+{{ if eq $items_count 0 }}
+  {{ $items_count = 65535 }}
+{{ else }}
+  {{ $items_count = $items_count | default 20 }}
+{{ end }}
+
+{{/* Query */}}
+{{ $tags := first $items_count (index site.Taxonomies $taxonomy).ByCount }}
+{{ $count := len $tags }}
+
 <div class="row">
   <div class="col-12 text-center section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
