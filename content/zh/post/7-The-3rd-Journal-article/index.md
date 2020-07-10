@@ -1,7 +1,7 @@
 ---
-title: 'The 3rd Journal Article'
+title: '第三篇期刊论文接收发表'
 subtitle: ''
-summary: The 3th Journal paper Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation is accepted by Acta Physico-Chimica Sinica.
+summary: 第三篇期刊论文Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation被Acta Physico-Chimica Sinica接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 3th Journal paper **Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation** is accepted by **Acta Physico-Chimica Sinica**.
+第三篇期刊论文**Influence of External Electric Field on Vibrational Spectrum of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation**被**Acta Physico-Chimica Sinica**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

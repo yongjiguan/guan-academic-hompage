@@ -1,7 +1,7 @@
 ---
-title: '第二篇期刊文章接收发表'
+title: '第二篇期刊论文接收发表'
 subtitle: ''
-summary: 第二篇期刊文章Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation被J Phys Chem C接收并发表。
+summary: 第二篇期刊论文Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation被J Phys Chem C接收并发表。
 authors:
 - admin
 tags:
@@ -37,7 +37,7 @@ gallery_item:
   image: 2014-2.png
 ---
 
-第二篇期刊文章**Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation**被**J Phys Chem C**接收并发表。
+第二篇期刊论文**Dynamic Three-Dimensional Nanowetting Behavior of Imidazolium-Based Ionic Liquids Probed by Molecular Dynamics Simulation**被**J Phys Chem C**接收并发表。
 
 {{< gallery >}}
 
