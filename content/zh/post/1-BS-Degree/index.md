@@ -1,7 +1,7 @@
 ---
-title: 'B.S. Degree'
+title: '获得工学学士学位'
 subtitle: ''
-summary: I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study in School of Information Science and Engineering, Lanzhou University, China.
+summary: 通过自己四年的努力，今年获得了通信工程专业工学学士学位，并被保送到兰州大学信息科学与工程学院无线电物理专业（导师：张晓萍教授和邵群峰博士）攻读硕士研究生学位。
 authors:
 - admin
 tags:
@@ -30,16 +30,16 @@ projects: []
 # Set captions for image gallery.
 gallery_item:
 - album: gallery
-  caption: Communication Engineering Class I
+  caption: 2010级通信工程一班合影
   image: 2014-1.png
 - album: gallery
-  caption: 2014 undergraduate student in School of Information Science and Engineering
+  caption: 2014届信息学院本科毕业生合影
   image: 2014-2.png
 ---
 
-Today, I receive my B.S. degree through my own efforts and qualified for a direct postgraduate study in [School of Information Science and Engineering, Lanzhou University](http://www.lzu.edu.cn/)!
+通过自己四年的努力，今年获得了通信工程专业工学学士学位，并被保送到[兰州大学信息科学与工程学院](http://www.lzu.edu.cn/)无线电物理专业（导师：张晓萍教授和邵群峰博士）攻读硕士研究生学位。
 
-In this happy day, I want to thank the teacher who answered my questions, the family who silently supported me, and all the friends and classmates who helped me.
+在这个特殊的日子里，我要感谢所有为我授业解惑的老师，默默支持我的亲人以及所有给予我帮助的同学和朋友。
 
 ## Graduation Photoes
 
@@ -49,5 +49,5 @@ The related graduation photoes are shown as following:
 
 ## License
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 
