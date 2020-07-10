@@ -1,7 +1,7 @@
 ---
-title: 'MD Summer Conference'
+title: '参加2017年暑期LAMMPS分子动力学模拟技术与应用会议'
 subtitle: ''
-summary: I attend the 2017-Lammps Molecular Dynamics Simulation Summer Application Technology Conference in conference center of Beijing Institute of Applied Physics and Computational Mathematics, Beijing, China.
+summary: 我参加了在北京应物中心举办的2017年暑期LAMMPS分子动力学模拟技术与应用会议。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-I attend the **2017-Lammps Molecular Dynamics Simulation Summer Application Technology Conference** in conference center of Beijing Institute of Applied Physics and Computational Mathematics, Beijing, China.
+我参加了在北京应物中心举办的**2017年暑期LAMMPS分子动力学模拟技术与应用会议**。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

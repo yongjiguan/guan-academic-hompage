@@ -1,7 +1,7 @@
 ---
-title: 'The 1st Conference Paper'
+title: '第一篇会议论文接收发表'
 subtitle: ''
-summary: The 1st Conference paper Near infrared plasmonic optical trapping based on hybrid metal nanorod is added to IEEE Xplore.
+summary: 第一篇会议论文Near infrared plasmonic optical trapping based on hybrid metal nanorod被IEEE Xplore接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 1st Conference paper **Near infrared plasmonic optical trapping based on hybrid metal nanorod** is added to **IEEE Xplore**.
+第一篇会议论文**Near infrared plasmonic optical trapping based on hybrid metal nanorod**被**IEEE Xplore**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 
