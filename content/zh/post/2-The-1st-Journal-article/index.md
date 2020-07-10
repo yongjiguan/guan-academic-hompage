@@ -37,8 +37,7 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 1st Journal paper **Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet Molecular Dynamics Simulation** is accepted by **The Journal of Chemical Physics**.
-第一篇期刊论文 **Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet Molecular Dynamics Simulation** 被** The Journal of Chemical Physics**接收并发表。
+第一篇期刊论文**Flow-Induced Voltage Generation by Moving a Nano-Sized Ionic Liquids Droplet over a Graphene Sheet Molecular Dynamics Simulation**被**The Journal of Chemical Physics**接收并发表。
 
 {{< gallery >}}
 
