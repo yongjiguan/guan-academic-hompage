@@ -1,7 +1,7 @@
 ---
-title: '8th-ICMS&I'
+title: '参加第八届国际分子模拟与信息技术应用学术会议'
 subtitle: ''
-summary: I attent the 8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I) and give oral and poster prentation in Dalian, China.
+summary: 我参加了在中国大连举行的第八届国际分子模拟与信息技术应用学术会议并做了口头报告和墙报展示。
 authors:
 - admin
 tags:
@@ -35,15 +35,15 @@ gallery_item:
 
 ---
 
-I attent the **8th International Conference on Molecular Simulations and Informatics Technology Application (8th-ICMS&I)** and give **oral and poster prentations** in Dalian, China.
+我参加了在中国大连举行的**第八届国际分子模拟与信息技术应用学术会议**并做了**口头报告和墙报展示**。
 
-## Confercence Photoes
+## 会议留念
 
-The related confercence photoes are shown as following:
+部分会议照片:
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

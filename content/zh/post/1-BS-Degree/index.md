@@ -47,7 +47,7 @@ gallery_item:
 
 {{< gallery >}}
 
-## License
+## 版权
 
 版权 2014-2020 关永吉
 
