@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+title = "个人技能"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -17,37 +17,37 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "searchengin"
   icon_pack = "fab"
-  name = "Research"
+  name = "文献检索"
   parcent = "95%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
+  name = "数据分析"
   parcent = "90%"
  
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Teamwork"
+  name = "团队协作"
   parcent = "80%"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
+  name = "Python编程"
   parcent = "50%"
   
 [[feature]]
   icon = "user-tie"
   icon_pack = "fas"
-  name = "Leadership"
+  name = "领导决策"
   parcent = "80%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "摄影爱好"
   parcent = "60%"
 
 +++

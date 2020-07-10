@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
-title = "Contact"
-subtitle = "Communication promotes human development"
+title = "联系方式"
+subtitle = "交流促进人类发展和经济繁荣"
 
 # Automatically link email and phone?
 autolink = true

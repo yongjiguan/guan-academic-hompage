@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Links"
-subtitle = "Stand on the shoulders of giants"
+title = "常用链接"
+subtitle = "站在巨人的肩膀上"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Computational Calculations"
+  organization = "理论计算"
   organization_url = ""
-  title = "Molecular Builders"
+  title = "建模工具"
   url = ""
   certificate_url = ""
   date_start = "2020-07-08"
@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Computational Calculations"
+  organization = "理论计算"
   organization_url = ""
-  title = "Visual Software"
+  title = "可视化软件"
   url = ""
   certificate_url = ""
   date_start = "2020-07-07"
@@ -53,9 +53,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Computational Calculations"
+  organization = "理论计算"
   organization_url = ""
-  title = "Post Processing Tools"
+  title = "后处理工具"
   url = ""
   certificate_url = ""
   date_start = "2020-07-06"
@@ -67,9 +67,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Computational Calculations"
+  organization = "理论计算"
   organization_url = ""
-  title = "Quantum Chemistry Softwares"
+  title = "量化软件"
   url = ""
   certificate_url = ""
   date_start = "2020-07-05"
@@ -82,9 +82,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Computational Calculations"
+  organization = "理论计算"
   organization_url = ""
-  title = "Molecular Dynamics Softwares"
+  title = "分子动力学软件"
   url = ""
   certificate_url = ""
   date_start = "2020-07-04"
@@ -100,9 +100,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Software"
+  organization = "软件"
   organization_url = ""
-  title = "Reference Management Software"
+  title = "文献管理软件"
   url = ""
   certificate_url = ""
   date_start = "2020-07-03"
@@ -117,9 +117,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Ranking"
+  organization = "大学排名"
   organization_url = ""
-  title = "World University Rankings"
+  title = "世界大学排名"
   url = ""
   certificate_url = ""
   date_start = "2020-07-02"
@@ -132,9 +132,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Research Group"
+  organization = "研究小组"
   organization_url = ""
-  title = "Ionic Liquids Group"
+  title = "离子液体研究组"
   url = ""
   certificate_url = ""
   date_start = "2020-07-01"

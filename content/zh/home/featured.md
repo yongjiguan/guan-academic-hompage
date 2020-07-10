@@ -9,8 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 draft = true # false it if you want a featured section
 
-title = "Featured Publications"
-subtitle = "Featured publications i have published"
+title = "代表论文"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

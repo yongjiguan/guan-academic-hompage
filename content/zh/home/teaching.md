@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Teaching"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+title = "教学课程"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,43 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "School of Information Science and Engineering, Lanzhou Univesity"
+  organization = "兰州大学信息科学与工程学院"
   organization_url = "http://xxxy.lzu.edu.cn/"
-  title = "Teaching Assistant - Principle of Communication"
+  title = "助教 - 通信原理"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2015-01-15"
-  description = "This is my first teaching on **Principle of Communication** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
+  description = "硕士一年级期间第一次作为**通信原理**课程的助教，主要工作是帮助学习该课程的学生批改作业和解答习题。"
 
 [[item]]
-  organization = "School of Information Science and Engineering, Lanzhou Univesity"
+  organization = "兰州大学信息科学与工程学院"
   organization_url = "http://xxxy.lzu.edu.cn/"
-  title = "Teaching Assistant - Mathematical Methods for Physicists"
+  title = "助教 - 数学物理方法"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2015-01-15"
-  description = "This is my second teaching on **Mathematical Methods for Physicists** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
+  description = "硕士一年级期间第二次作为**数学物理方法**课程的助教，主要工作是帮助学习该课程的学生批改作业和解答习题。"
   
 [[item]]
-  organization = "School of Information Science and Engineering, Lanzhou Univesity"
+  organization = "兰州大学信息科学与工程学院"
   organization_url = "http://xxxy.lzu.edu.cn/"
-  title = "Teaching Assistant - Principles of Optical Fiber Communications"
+  title = "助教 - 光纤通信"
   url = ""
   certificate_url = ""
-  date_start = "2015-01-01"
+  date_start = "2015-03-01"
   date_end = "2015-07-15"
-  description = "This is my third teaching on **Principles of Optical Fiber Communications** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
+  description = "硕士一年级期间第三次作为**光纤通信**课程的助教，主要工作是帮助学习该课程的学生批改作业和解答习题。"
   
 [[item]]
-  organization = "School of Information Science and Engineering, Lanzhou Univesity"
+  organization = "兰州大学信息科学与工程学院"
   organization_url = "http://xxxy.lzu.edu.cn/"
-  title = "Teaching Assistant - Principles of Wireless Communications"
+  title = "助教 - 微波原理与技术"
   url = ""
   certificate_url = ""
   date_start = "2015-09-01"
   date_end = "2016-01-15"
-  description = "This is my fourth teaching on **Principles of Wireless Communications** as a teaching assistant in my second year of B.S. My job duties included checking and solving students' homework."
+  description = "硕士二年级期间第四次作为**微波原理与技术**课程的助教，主要工作是帮助学习该课程的学生批改作业和解答习题。"
 
 +++

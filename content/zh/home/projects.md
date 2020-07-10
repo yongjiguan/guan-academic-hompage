@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
+title = "科研课题"
+subtitle = "所有事情便容易之前总是困难的"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,24 +22,24 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "所有课题"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Energy Harvesting"
-    tag = "Energy Harvesting"
-	
-  [[content.filter_button]]
-    name = "Nano Wetting"
+    name = "纳米润湿"
     tag = "Nano Wetting"
-  
+
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
-  
+    name = "能量收集"
+    tag = "Energy Harvesting"
+
   [[content.filter_button]]
-    name = "Vibrational Spectrum"
+    name = "振动光谱"
     tag = "Vibrational Spectrum"
+
+  [[content.filter_button]]
+    name = "其他课题"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Teaching Assistant - Principles of Optical Fiber Communications"
   url = ""
   certificate_url = ""
-  date_start = "2015-01-01"
+  date_start = "2015-03-01"
   date_end = "2015-07-15"
   description = "This is my third teaching on **Principles of Optical Fiber Communications** as a teaching assistant in my first year of B.S. My job duties included checking and solving students' homework."
   

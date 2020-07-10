@@ -26,20 +26,20 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "*"
 
   [[content.filter_button]]
+    name = "Nano Wetting"
+    tag = "Nano Wetting"
+
+  [[content.filter_button]]
     name = "Energy Harvesting"
     tag = "Energy Harvesting"
 	
   [[content.filter_button]]
-    name = "Nano Wetting"
-    tag = "Nano Wetting"
+    name = "Vibrational Spectrum"
+    tag = "Vibrational Spectrum"
   
   [[content.filter_button]]
     name = "Other"
     tag = "Demo"
-  
-  [[content.filter_button]]
-    name = "Vibrational Spectrum"
-    tag = "Vibrational Spectrum"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

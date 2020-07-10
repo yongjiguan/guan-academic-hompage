@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Academic News"
-subtitle = "Everything in this world is temporary and eternal"
+title = "学术新闻"
+subtitle = "世界上的一切是永恒的，也是暂时的"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
