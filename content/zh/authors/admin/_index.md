@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yongji Guan
+name: 关永吉
 avatar_image: "/hero/GYJ-full-2.jpg"
 # Username (this should match the folder name)
 authors:
@@ -8,43 +8,43 @@ authors:
 # resume download button
 btn:
 - url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
-  label : "Download CV"
+  label : "简历下载"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow
+role: 博士后研究员
 
 # Organizations/Affiliations
 organizations:
-- name: Imperial College London
+- name: 兰州大学/伦敦帝国理工学院
   url: "https://www.imperial.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yongji Guan is currently a postdoc research fellow of Physical chemistry who specializes in the theoretical caculation of ionic liquids.
+bio: 关永吉目前为物理化学方向的博士后研究员，他的主要研究方向为离子液体的理论计算。
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
-- Molecular Dynamics
-- Ionic Liquids
-- Nano Confinement
-- Nano Wetting
-- Energy Harvesting
-- Vibrational Spectrum
+- 分子动力学
+- 离子液体
+- 纳米限域
+- 纳米润湿
+- 能量收集
+- 振动光谱
 
 education:
   courses:
-  - course: Ph.D. in Radio Physics
-    institution: Lanzhou University
+  - course: 理学博士，无线电物理
+    institution: 兰州大学
     year: 2019
-  - course: M.Sc. in Radio Physics
-    institution: Lanzhou University
+  - course: 理学硕士，无线电物理
+    institution: 兰州大学
     year: 2016
-  - course: B.Eng. in Communacation Engineering
-    institution: Lanzhou University
+  - course: 工学学士，通信工程
+    institution: 兰州大学
     year: 2014
 
 # Social/academia Networking
