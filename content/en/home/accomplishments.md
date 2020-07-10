@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lanzhou University"
   organization_url = "https://www.lzu.edu.cn"
-  title = "Prize Scholarship"
+  title = "First Prize Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"
@@ -51,11 +51,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Lanzhou University"
   organization_url = "https://www.lzu.edu.cn"
-  title = "The title of Merit Postgraduate of Lanzhou University"
+  title = "The Title of Merit Postgraduate of Lanzhou University"
   url = ""
   certificate_url = ""
   date_start = "2017-12-01"
   date_end = ""
-  description = "The title of Merit Postgraduate of Lanzhou University"
+  description = "The Title of Merit Postgraduate of Lanzhou University"
 
 +++
