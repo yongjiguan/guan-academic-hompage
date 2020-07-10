@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
 
 # Date format
@@ -19,43 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Lanzhou University"
+  organization_url = "https://www.lzu.edu.cn"
+  title = "International Postdoctoral Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-05-18"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "The International Postdoctoral Scholarship Fund of Lanzhou University"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Lanzhou University"
+  organization_url = "https://www.lzu.edu.cn"
+  title = "Liu Bing Alumni Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-12-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Liu Bing Alumni Scholarship"
+
+[[item]]
+  organization = "Lanzhou University"
+  organization_url = "https://www.lzu.edu.cn"
+  title = "Prize Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = "The First Prize Scholarship of Lanzhou University"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Lanzhou University"
+  organization_url = "https://www.lzu.edu.cn"
+  title = "The title of Merit Postgraduate of Lanzhou University"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-  
-[[item]]
-  organization = "RDX"
-  organization_url = "https://www.rdx.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2017-12-01"
+  date_end = ""
+  description = "The title of Merit Postgraduate of Lanzhou University"
 
 +++
