@@ -35,14 +35,14 @@ hero_media = "/hero/GYJ-full-1.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "Know more"
+  label = "更多信息"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "欢迎联系"
 
 +++
 
-# Welcome to Yongji Guan's Academic Hompage!
+# 欢迎访问关永吉的个人学术主页！
 
-## My name is **Yongji Guan** and I'm working currently as a **Postdoc Research Fellow** specializing in **dynamic properies of ionic liquids** using camputational calculation.
+## 目前在伦敦帝国理工学院作为一名博士后研究员开展研究工作，主要研究方向为离子液体性质的理论计算。
