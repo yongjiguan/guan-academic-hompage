@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "科研课题"
-subtitle = "所有事情便容易之前总是困难的"
+subtitle = "所有事情在变容易之前总是困难的"
 
 [content]
   # Page type to display. E.g. project.
