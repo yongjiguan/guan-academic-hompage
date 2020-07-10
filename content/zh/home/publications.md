@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "Some publications i have recently published"
+subtitle = "**Numbers: 15 | Citations: 55 | h-index: 4 | i10-index: 2**"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -36,7 +36,7 @@ subtitle = "Some publications i have recently published"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.

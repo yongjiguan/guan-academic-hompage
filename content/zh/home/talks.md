@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
-subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
+subtitle = "Communicating with others is a better way for us to improve"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0

@@ -9,6 +9,6 @@ date: "2019-03-10"
 external_link: 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: # Photo by Yongji Guan
   focal_point: Smart
 ---
