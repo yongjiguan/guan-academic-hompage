@@ -8,7 +8,7 @@ authors:
 # resume download button
 btn:
 - url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
-  label : "简历下载"
+  label : "个人简历下载"
 
 # Is this the primary user of the site?
 superuser: true
@@ -98,4 +98,4 @@ user_groups:
 - Visitors
 ---
 
-Yongji Guan was born in 1991 in Gansu, China. He graduated with a B.S. degree from [Lanzhou University](http://www.lzu.edu.cn) in 2014. In 2019, he received his Ph.D. degree (supervised by Prof. Xiaoping Zhang and Prof. Youquan Deng) on the nanowetting and energy harvesting of ionic liquids using computational calculations from school of Information Science and Engineering, Lanzhou University. He is working currently as a postdoctoral research fellow at department of chemistry in [Imperial College London](http://www.imperial.ac.uk), advised by Prof. Tom Welton. His current research interest include the nanowetting behaviour of ionic liquids, dynamic behaviour of ionic liquids in external field, vibrational spectrum change of ionic liquids through computational calculations.
+关永吉于1991年生于中国甘肃省，2014年本科毕业于兰州大学。2019年在[兰州大学](http://www.lzu.edu.cn)获得理学博士学位（导师：张晓萍教授、邓友全研究员），主要研究方向为纳米限域离子液体的润湿性为及能量收集。目前在[伦敦帝国理工学院](http://www.imperial.ac.uk)作为博士后研究员开展研究工作，主要研究内容为离子液体的纳米润湿行为、外场作用下离子液体的性质以及特定条件下离子液体的振动光谱特征。
