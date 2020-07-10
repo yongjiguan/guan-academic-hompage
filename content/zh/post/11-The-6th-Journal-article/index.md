@@ -1,7 +1,7 @@
 ---
-title: 'The 6th Journal Article'
+title: '第六篇期刊论文接收发表'
 subtitle: ''
-summary: The 6th Journal paper Microwave-Absorbing Properties of Room-Temperature Ionic Liquids is accepted by J Phys D Appl Phys.
+summary: 第六篇期刊论文Microwave-Absorbing Properties of Room-Temperature Ionic Liquids被J Phys D Appl Phys接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 6th Journal paper **Microwave-Absorbing Properties of Room-Temperature Ionic Liquids** is accepted by **J Phys D Appl Phys**.
+第六篇期刊论文**Microwave-Absorbing Properties of Room-Temperature Ionic Liquids**被**J Phys D Appl Phys**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

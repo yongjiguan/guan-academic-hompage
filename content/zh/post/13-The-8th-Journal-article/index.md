@@ -1,7 +1,7 @@
 ---
-title: 'The 8th Journal Article'
+title: '第八篇期刊论文接收发表'
 subtitle: ''
-summary: The 8th Journal paper Highly Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles is accepted by J Electrochem Soc.
+summary: 第八篇期刊论文Highly Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles被J Electrochem Soc接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 8th Journal paper **Highly Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles** is accepted by **J Electrochem Soc**. 
+第八篇期刊论文**Highly Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles**被**J Electrochem Soc**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

@@ -1,7 +1,7 @@
 ---
-title: 'The 5th Journal Article'
+title: '第五篇期刊论文接收发表'
 subtitle: ''
-summary: The 5th Journal paper Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting is accepted by J Phys Chem C.
+summary: 第五篇期刊论文Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting被J Phys Chem C接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 5th Journal paper **Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting** is accepted by **J Phys Chem C**.
+第五篇期刊论文**Ionic Liquid Filled Single-Walled Carbon Nanotubes for Flow-Induced Energy Harvesting**被**J Phys Chem C**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

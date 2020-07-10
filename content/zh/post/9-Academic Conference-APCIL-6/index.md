@@ -1,7 +1,7 @@
 ---
-title: 'APCIL-6'
+title: '第六届亚太离子液体与绿色过程国际会议'
 subtitle: ''
-summary: I take part in the 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6) and give oral and poster prentation in Tottori, Japan.
+summary: 我参加了在日本鸟取县举行的第六届亚太离子液体与绿色过程国际会议并做了口头报告和墙报展示。
 authors:
 - admin
 tags:
@@ -40,15 +40,15 @@ gallery_item:
   image: 2018-3.png
 ---
 
-**The 6th Asian Pacific Congress on Ionic Liquid & Green Processes (APCIL-6)** is held in **Tottori, Japan**. I and my advisor Prof. Xiaopiang Zhang, Prof. Youquan Deng attend the Conference and I give **oral and poster presentation** on Oct. 1, 2018.
+我参加了在日本鸟取县举行的**第六届亚太离子液体与绿色过程国际会议**并做了**口头报告和墙报展示**。
 
-## Conference Photoes
+## 会议留念
 
-The related confercence photoes are shown as following:
+部分会议照片:
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 
