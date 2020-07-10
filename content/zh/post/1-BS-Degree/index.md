@@ -1,7 +1,7 @@
 ---
 title: '获得工学学士学位'
 subtitle: ''
-summary: 通过自己四年的努力，今年获得了通信工程专业工学学士学位，并被保送到兰州大学信息科学与工程学院无线电物理专业（导师：张晓萍教授和邵群峰博士）攻读硕士研究生学位。
+summary: 通过自己四年的努力，今天获得了通信工程专业工学学士学位，并被保送到兰州大学信息科学与工程学院无线电物理专业（导师：张晓萍教授和邵群峰博士）攻读硕士研究生学位。
 authors:
 - admin
 tags:
@@ -41,9 +41,9 @@ gallery_item:
 
 在这个特殊的日子里，我要感谢所有为我授业解惑的老师，默默支持我的亲人以及所有给予我帮助的同学和朋友。
 
-## Graduation Photoes
+## 毕业留念
 
-The related graduation photoes are shown as following:
+部分毕业照片:
 
 {{< gallery >}}
 
