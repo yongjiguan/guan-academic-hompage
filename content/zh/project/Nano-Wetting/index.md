@@ -1,6 +1,6 @@
 ---
-title: Nano Wetting
-summary: The nano-wetting behaviour of ionic liquids on solid surface with/without external force.
+title: 纳米润湿
+summary: 有/无外力作用下的离子液体在固体表面的纳米润湿行为。
 tags:
 - Nano Wetting
 date: "2013-10-09"

@@ -1,6 +1,6 @@
 ---
-title: Vibrational Spectrum
-summary: The vibrational spectrum change of ionic liquids under external field or graphene surface.
+title: 振动光谱
+summary: 离子液体在外场作用下或者位于固体表面的振动光谱特征。
 tags:
 - Vibrational Spectrum
 date: "2016-10-09"

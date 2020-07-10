@@ -1,6 +1,6 @@
 ---
-title: Microwave Absorption
-summary: Microwave Absorbing Properties of Ionic Liquids and structures based on Ionic liquids.
+title: 微波吸收
+summary: 离子液体及基于离子液体的结构的微波吸收特性。
 tags:
 - Demo
 date: "2018-04-10"

@@ -1,6 +1,6 @@
 ---
-title: Energy Harvesting
-summary: Harvesting energy from flowing liquids over graphene or single-walled carbon nanotubes (SWCNTs)
+title: 能量收集
+summary: 基于离子液体流过石墨烯或者单壁碳纳米管的流动能量收集。
 tags:
 - Energy Harvesting
 date: "2014-09-10"

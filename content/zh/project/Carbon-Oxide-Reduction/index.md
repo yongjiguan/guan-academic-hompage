@@ -1,6 +1,6 @@
 ---
-title: Carbon Oxide Reduction
-summary: Photoelectrocatalytic Reduction of carbon oxide to clean energy by mimicking artificial photosynthesis.
+title: 二氧化碳还原
+summary: 模拟自然光合成作用的光电催化还原二氧化碳生成清洁能源。
 tags:
 - Demo
 date: "2019-03-10"

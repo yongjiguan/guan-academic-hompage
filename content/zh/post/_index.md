@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 学术新闻
 
 # View.
 #   1 = List

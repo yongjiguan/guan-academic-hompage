@@ -1,6 +1,6 @@
 ---
-title: Battery
-summary: Efficient and Non-Precious Metal for the Li-SOCl$_{2}$ Battery Using Nitrogen Doped Carbon Supported Cu Nanoparticles.
+title: 锂离子电池
+summary: 高效的非贵金属掺氮碳负载铜纳米粒子的Li-SOCl$_{2}$电池。
 tags:
 - Demo
 date: "2019-03-01"
