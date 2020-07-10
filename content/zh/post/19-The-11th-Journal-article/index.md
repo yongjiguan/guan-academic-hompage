@@ -1,7 +1,7 @@
 ---
-title: 'The 11th Journal Article'
+title: '第十一篇期刊论文接收发表'
 subtitle: ''
-summary: The 11th Journal paper Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface is accepted by Journal of Molecular Liquids.
+summary: 第十一篇期刊论文表Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface被Journal of Molecular Liquids接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 11th Journal paper **Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface** is accepted by **Journal of Molecular Liquids**. 
+第十一篇期刊论文表**Vibrational Spectrum of 1-Ethyl-3-Methylimidazolium Tetrafluoroborate on Graphene Surface**被**Journal of Molecular Liquids**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

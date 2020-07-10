@@ -1,7 +1,7 @@
 ---
-title: 'Poctdoc Scholarship'
+title: '获得兰州大学国际师资博士后奖学金'
 subtitle: ''
-summary: I obtain the International Teacher Postdoctoral Scholarship Fund of Lanzhou University in School of Information Science and Engineering, Lanzhou University, China.
+summary: 我获得了兰州大学国际师资博士后奖学金，并将赴英国伦敦帝国理工学院开展博士后研究工作。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-I obtain the **International Teacher Postdoctoral Scholarship Fund of Lanzhou University** in School of Information Science and Engineering, Lanzhou University, China.
+我获得了兰州大学国际师资博士后奖学金，并将赴英国**伦敦帝国理工学院分子科学研究中心**开展博士后研究工作。中方合作导师张晓萍教授，外方合作导师Tom Welton教授。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

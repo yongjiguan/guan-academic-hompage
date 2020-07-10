@@ -1,7 +1,7 @@
 ---
-title: 'Ph.D. Degree'
+title: '获得理学博士学位'
 subtitle: ''
-summary: I complet my PhD dissertation defense and then receive my PhD in School of Information Science and Engineering, Lanzhou University, China.
+summary: 通过博士论文答辩，我获得了兰州大学无线电物理专业理学博士学位。
 authors:
 - admin
 tags:
@@ -40,17 +40,17 @@ gallery_item:
   image: 2019-3.png
 ---
 
-Today, I complet my PhD dissertation defense and then receive my PhD in [School of Information Science and Engineering, Lanzhou University](http://www.lzu.edu.cn/), China.
+今天，通过博士论文答辩，我获得了兰州大学无线电物理专业理学博士学位。
 
-In this happy day, I want to thank the advisors (Prof. Xiaoping Zhang and Prof. Youquan Deng) who answered my questions, the family who silently supported me, and all the friends and classmates who helped me.
+在这个令人兴奋的日子里，我想特别感谢我的导师张晓萍教授和邓友全研究员，感谢所有给予我知识的老师，感谢给我默默支持的亲人以及所有帮助过我的同学和朋友。
 
-## Graduation Photoes
+## 毕业留念
 
-The related graduation photoes are shown as following:
+部分毕业照片:
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

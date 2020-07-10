@@ -1,7 +1,7 @@
 ---
-title: 'Postdoc Research ICL'
+title: '在伦敦立国理工学院开展博士后研究工作'
 subtitle: ''
-summary: I start my postdoctoral research in Prof. Welton's group at molecular science research hub in department of chemistry, Imperial College London, UK.
+summary: 我开始在伦敦帝国理工学院分子科学研究中心开展博士后研究工作，合作导师为Tom Welton教授。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-Today, I start my **postdoctoral research in Prof. Welton's group** at molecular science research hub in department of chemistry, **Imperial College London**, UK.
+今天，我开始在伦敦**帝国理工学院分子科学研究中心**开展博士后研究工作，合作导师为Tom Welton教授，主要研究方向为**外电场作用下离子液体的性质**。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

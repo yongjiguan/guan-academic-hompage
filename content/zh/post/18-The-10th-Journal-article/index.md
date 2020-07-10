@@ -1,7 +1,7 @@
 ---
-title: 'The 10th Journal Article'
+title: '第十篇期刊论文接收发表'
 subtitle: ''
-summary: The 10th Journal paper Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field is accepted by Acta Physico-Chimica Sinica.
+summary: 第十篇期刊论文Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field被Acta Physico-Chimica Sinica期刊接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 10th Journal paper **Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field** is accepted by **Acta Physico-Chimica Sinica**.
+第十篇期刊论文**Atomistic Insight into Changes in the Vibrational Spectrum of Ionic Liquids under External Electric Field**被**Acta Physico-Chimica Sinica**期刊接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

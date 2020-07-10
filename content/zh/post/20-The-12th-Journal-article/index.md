@@ -1,7 +1,7 @@
 ---
-title: 'The 12th Journal Article'
+title: '第十二篇期刊论文接收发表'
 subtitle: ''
-summary: The 12th Journal paper In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation is accepted by Journal of Molecular Liquids.
+summary: 第十二篇期刊论文In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation被Journal of Molecular Liquids接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 12th Journal paper **In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation** is accepted by **Journal of Molecular Liquids**.
+第十二篇期刊论文**In-Depth Investigation on THz Spectrum of 1-Butyl-3-Methylimidazolium Dicyanamide Spreading on Graphene Surface by Computational Calculation**被**Journal of Molecular Liquids**接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 

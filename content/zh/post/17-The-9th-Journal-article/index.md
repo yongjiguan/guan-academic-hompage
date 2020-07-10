@@ -1,7 +1,7 @@
 ---
-title: 'The 9th Journal Article'
+title: '第九篇期刊论文接收发表'
 subtitle: ''
-summary: The 9th Journal paper Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions is accepted by iScience.
+summary: 第九篇期刊论文Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions被iScience期刊接收并发表。
 authors:
 - admin
 tags:
@@ -37,11 +37,11 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 9th Journal paper **Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions** is accepted by **iScience**.
+第九篇期刊论文**Photoelectrocatalytic Reduction of CO$_{2}$ to Paraffin Using P-N Heterojunctions**被**iScience**期刊接收并发表。
 
 {{< gallery >}}
 
-## License
+## 版权
 
-Copyright 2014-2020 Yongji Guan
+版权 2014-2020 关永吉
 
