@@ -34,7 +34,7 @@ date_format = "Jan, 2006"
   location = "Lanzhou, Gansu, China"
   date_start = "2019-10-01"
   date_end = ""
-  description = """I am working currently as a international postdoctoral research fellow at school of information science and engineering in Lanzhou University, advised by Prof. Xiaoping Zhang."""
+  description = """I am working currently as an international postdoctoral research fellow at school of information science and engineering in Lanzhou University, advised by Prof. Xiaoping Zhang."""
 
 # [[experience]]
   # title = "CEO"
