@@ -26,7 +26,7 @@ abstract: The hybrid metal subwavelength structure which takes advantage of two 
 summary: This work mainly introduces a near infrared plasmonic resonance optical trapping based on hybrid nanorod pair array structure consisting of Pd and Ag metallic nanorods.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: flase
 
 links:

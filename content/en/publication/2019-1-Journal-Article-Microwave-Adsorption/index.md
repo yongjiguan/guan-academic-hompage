@@ -26,7 +26,7 @@ abstract: An ultrabroadband metamaterial absorber (MMAs) based on room temperatu
 summary: An ultrabroadband metamaterial absorber based on room temperature ionic liquids and composed entirely of cations and anions was proposed and analyzed in the microwave regimen.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: false
 
 # links:

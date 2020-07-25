@@ -26,7 +26,7 @@ abstract: Inspired by the interesting phenomenon that biological systems have th
 summary: In this work, the flow-induced voltage is investigated by driving the pure bulk roomtemperature ionic liquid (RTIL) 1-ethyl-3-methylimidazolium tetrafluoroborate ([Emim][BF$_{4}$]) flowing over a graphene nano-channel consisting of two parallel single-layered graphene sheets using molecular dynamics simulation for the first time. I made **oral and poster presentations** at the meeting.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: flase
 
 links:

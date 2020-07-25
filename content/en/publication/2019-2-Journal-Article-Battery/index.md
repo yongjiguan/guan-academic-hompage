@@ -26,7 +26,7 @@ abstract: For lithium thionyl chloride batteries, the catalytic activity of the 
 summary: In this paper, a poly (1-vinyl-3-methylimidazolium dicyanamide) ionic liquid (PIL) is selected as precursor to support CuO nanoparticles, and an efficient, non-precious metal nitrogen doped carbon supported Cu nanoparticles (N-C@Cu) composite material is designed and prepared for the lithium thionyl chloride battery cathode catalyst.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: false
 
 # links:

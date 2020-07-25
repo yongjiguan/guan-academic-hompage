@@ -26,7 +26,7 @@ abstract: Nowadays, photoelectrocatalytic (PEC) reduction of CO$_{2}$  represent
 summary: Here we show that a series of three-dimensional C/N-doped heterojunctions of Zn$_{x}$:Co$_{y}$@Cu are successfully fabricated and applied as photocathodes in the PEC reduction of CO$_{2}$ to generate paraffin product.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: false
 
 # links:

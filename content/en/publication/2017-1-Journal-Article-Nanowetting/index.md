@@ -26,7 +26,7 @@ abstract: The dynamic three-dimensional nanowetting behavior of nanodroplets of 
 summary: Dynamic nanowetting behavior of three ionic liquids nanodroplets with radii between 10 and 30 Å on silicon surface is probed by molecular dynamics simulation from 300 to 500 K.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: true
 
 # links:

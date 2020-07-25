@@ -26,7 +26,7 @@ abstract: Vibrational spectroscopy is a powerful tool for studying the microstru
 summary: The vibrational spectrum of [Emim][PF$_{6}$] under an external electric field ranging from 0 to 10 V nm$^{-1}$ is exploring by molecular dynamics simulations at 350 K.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: false
 
 # links:

@@ -26,7 +26,7 @@ abstract: Harvesting flow-induced energy for powering nanoelectromechanical syst
 summary: Herein, we employed molecular dynamics simulations to investigate the flow-induced energy harvesting through flowing three kinds of imidazolium-based ionic liquids (ILs) over single-walled carbon nanotubes (SWCNTs) with diameters varied from 1.22 to 4.07 nm at temperatures ranging from 300 to 375 K.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: false
 
 # links:

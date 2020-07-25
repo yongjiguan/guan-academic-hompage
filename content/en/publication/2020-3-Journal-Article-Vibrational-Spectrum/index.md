@@ -26,7 +26,7 @@ abstract: Ionic liquids (ILs) are promising novel solvents for energy harvesting
 summary: The influence of the graphene on the vibrational spectrum of [Emim][BF$_{4}$] pair in the range from 10 to 3500 cm$^{-1}$ is systemically investigated using density functional theory.
 
 tags:
-- Source Themes
+- Journal and Conference Articles
 featured: flase
 
 # links:
