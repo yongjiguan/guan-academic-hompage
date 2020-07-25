@@ -26,7 +26,7 @@ abstract: Inspired by the interesting phenomenon that biological systems have th
 summary: The flow-induced voltage is investigated by flowing the pure [Emim][BF$_{4}$] over a graphene nano-channel consisting of two parallel single-layered graphene sheets using molecular dynamics simulation for the first time.
 
 tags:
-- Source Themes
+- 期刊会议论文
 featured: true
 
 # links:

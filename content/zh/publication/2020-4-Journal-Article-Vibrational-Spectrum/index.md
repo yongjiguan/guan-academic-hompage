@@ -26,7 +26,7 @@ abstract: Understanding dynamic change of ionic liquid (IL) THz spectrum under c
 summary: Dynamic THz spectrum change of [Bmim][DCA] nanodroplet spreading on graphene surface in the range from 30 to 300 cm$^{-1}$ is probed by computational calculation at 300 K.
 
 tags:
-- Source Themes
+- 期刊会议论文
 featured: true
 
 # links:

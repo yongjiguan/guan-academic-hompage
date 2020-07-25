@@ -5,7 +5,7 @@ summary: 第六篇期刊论文Microwave-Absorbing Properties of Room-Temperature
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2019-01-23"
 lastmod: "2019-01-23"

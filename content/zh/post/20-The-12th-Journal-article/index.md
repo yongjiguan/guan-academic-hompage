@@ -5,7 +5,7 @@ summary: 第十二篇期刊论文In-Depth Investigation on THz Spectrum of 1-But
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2020-05-09"
 lastmod: "2020-05-09"

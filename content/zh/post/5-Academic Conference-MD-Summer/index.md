@@ -5,7 +5,7 @@ summary: 我参加了在北京应物中心举办的2017年暑期LAMMPS分子动�
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2017-06-08"
 lastmod: "2017-06-08"

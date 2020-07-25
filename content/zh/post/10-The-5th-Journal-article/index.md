@@ -5,7 +5,7 @@ summary: 第五篇期刊论文Ionic Liquid Filled Single-Walled Carbon Nanotubes
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2019-01-04"
 lastmod: "2019-01-04"

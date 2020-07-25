@@ -26,7 +26,7 @@ abstract: In this study, the influence of an external electric field (EEF) on th
 summary: Influence of external electric field on the vibrational spectra of EMIMPF$_{6}$ in range from 0 to 4000 cm$_{-1}$ is probed by molecular dynamics simulation at 350 K.
 
 tags:
-- Source Themes
+- 期刊会议论文
 featured: false
 
 # links:

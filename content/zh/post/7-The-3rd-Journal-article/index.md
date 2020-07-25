@@ -5,7 +5,7 @@ summary: 第三篇期刊论文Influence of External Electric Field on Vibrationa
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2018-01-05"
 lastmod: "2018-01-05"

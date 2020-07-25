@@ -5,7 +5,7 @@ summary: 第一篇期刊论文 Flow-Induced Voltage Generation by Moving a Nano-
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2016-03-09"
 lastmod: "2016-03-09"

@@ -26,7 +26,7 @@ abstract: In this work, the nano-wettability of hydrophilic/hydrophobic ionic li
 summary: The nano-wettability of hydrophilic/hydrophobic ionic liquids is explored by using the molecular dynamics simulations in this work. I made **oral presentations and poster presentations** at the meeting.
 
 tags:
-- Source Themes
+- 期刊会议论文
 featured: flase
 
 links:

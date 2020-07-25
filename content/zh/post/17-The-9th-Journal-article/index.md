@@ -5,7 +5,7 @@ summary: 第九篇期刊论文Photoelectrocatalytic Reduction of CO$_{2}$ to Par
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2019-12-09"
 lastmod: "2019-12-09"

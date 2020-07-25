@@ -5,7 +5,7 @@ summary: 第四篇期刊论文Flow-Induced Voltage Generation by Driving Imidazo
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2018-05-24"
 lastmod: "2018-05-24"

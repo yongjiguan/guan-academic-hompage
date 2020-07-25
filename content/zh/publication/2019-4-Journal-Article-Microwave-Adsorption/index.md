@@ -26,7 +26,7 @@ abstract: Here, the microwave-absorbing properties of 1-ethyl-3-methylimidazoliu
 summary: The microwave-absorbing properties of [E and BMIm]$^{+}$-based ionic liquids with different anions were systematically investigated by measuring dielectric properties in the 1–14 GHz microwave-frequency range.
 
 tags:
-- Source Themes
+- 期刊会议论文
 featured: false
 
 # links:

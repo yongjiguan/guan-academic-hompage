@@ -5,7 +5,7 @@ summary: 第十一篇期刊论文表Vibrational Spectrum of 1-Ethyl-3-Methylimid
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2020-05-08"
 lastmod: "2020-05-08"

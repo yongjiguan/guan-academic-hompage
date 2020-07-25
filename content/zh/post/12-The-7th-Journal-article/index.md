@@ -5,7 +5,7 @@ summary: 第七篇期刊论文Ultrabroadband metamaterial absorbers based on ion
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2019-01-24"
 lastmod: "2019-01-24"

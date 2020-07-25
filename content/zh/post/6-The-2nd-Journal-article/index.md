@@ -5,7 +5,7 @@ summary: 第二篇期刊论文Dynamic Three-Dimensional Nanowetting Behavior of 
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2017-09-21"
 lastmod: "2017-09-21"

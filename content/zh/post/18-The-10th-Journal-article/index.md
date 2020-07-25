@@ -5,7 +5,7 @@ summary: 第十篇期刊论文Atomistic Insight into Changes in the Vibrational 
 authors:
 - admin
 tags:
-- academia
+- 学术新闻
 categories: []
 date: "2020-03-19"
 lastmod: "2020-03-19"
