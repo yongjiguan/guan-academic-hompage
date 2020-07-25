@@ -5,7 +5,7 @@ summary: The 10th Journal paper Atomistic Insight into Changes in the Vibrationa
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2020-03-19"
 lastmod: "2020-03-19"

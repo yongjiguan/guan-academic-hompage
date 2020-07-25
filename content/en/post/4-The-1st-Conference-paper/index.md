@@ -5,7 +5,7 @@ summary: The 1st Conference paper Near infrared plasmonic optical trapping based
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2016-11-10"
 lastmod: "2016-11-10"

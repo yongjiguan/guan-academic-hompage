@@ -5,7 +5,7 @@ summary: I start my postdoctoral research in Prof. Welton's group at molecular s
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-10-03"
 lastmod: "2019-10-03"

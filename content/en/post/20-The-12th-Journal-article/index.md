@@ -5,7 +5,7 @@ summary: The 12th Journal paper In-Depth Investigation on THz Spectrum of 1-Buty
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2020-05-09"
 lastmod: "2020-05-09"

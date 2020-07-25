@@ -5,7 +5,7 @@ summary: The 4th Journal paper Flow-Induced Voltage Generation by Driving Imidaz
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2018-05-24"
 lastmod: "2018-05-24"

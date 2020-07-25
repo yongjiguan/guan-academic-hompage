@@ -5,7 +5,7 @@ summary: I complet my PhD dissertation defense and then receive my PhD in School
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-05-18"
 lastmod: "2019-05-18"

@@ -5,7 +5,7 @@ summary: I attent the 8th International Conference on Molecular Simulations and 
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2016-09-24"
 lastmod: "2016-09-24"

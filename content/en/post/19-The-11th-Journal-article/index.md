@@ -5,7 +5,7 @@ summary: The 11th Journal paper Vibrational Spectrum of 1-Ethyl-3-Methylimidazol
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2020-05-08"
 lastmod: "2020-05-08"

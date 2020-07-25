@@ -5,7 +5,7 @@ summary: The 5th Journal paper Ionic Liquid Filled Single-Walled Carbon Nanotube
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-01-04"
 lastmod: "2019-01-04"

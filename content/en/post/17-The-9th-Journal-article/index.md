@@ -5,7 +5,7 @@ summary: The 9th Journal paper Photoelectrocatalytic Reduction of CO$_{2}$ to Pa
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-12-09"
 lastmod: "2019-12-09"

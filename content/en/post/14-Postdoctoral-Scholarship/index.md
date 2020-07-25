@@ -5,7 +5,7 @@ summary: I obtain the International Teacher Postdoctoral Scholarship Fund of Lan
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-04-08"
 lastmod: "2019-04-08"

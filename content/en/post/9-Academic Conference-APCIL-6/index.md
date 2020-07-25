@@ -5,7 +5,7 @@ summary: I take part in the 6th Asian Pacific Congress on Ionic Liquid & Green P
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2018-10-31"
 lastmod: "2018-10-31"

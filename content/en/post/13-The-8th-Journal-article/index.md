@@ -5,7 +5,7 @@ summary: The 8th Journal paper Highly Efficient and Non-Precious Metal for the L
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-03-01"
 lastmod: "2019-03-01"

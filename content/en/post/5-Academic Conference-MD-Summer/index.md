@@ -5,7 +5,7 @@ summary: I attend the 2017-Lammps Molecular Dynamics Simulation Summer Applicati
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2017-06-08"
 lastmod: "2017-06-08"

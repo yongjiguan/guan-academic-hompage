@@ -5,7 +5,7 @@ summary: The 7th Journal paper Ultrabroadband metamaterial absorbers based on io
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-01-24"
 lastmod: "2019-01-24"

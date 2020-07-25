@@ -5,7 +5,7 @@ summary: The 3th Journal paper Influence of External Electric Field on Vibration
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2018-01-05"
 lastmod: "2018-01-05"

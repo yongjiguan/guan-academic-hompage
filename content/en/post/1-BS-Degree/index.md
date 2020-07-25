@@ -5,7 +5,7 @@ summary: I receive my B.S. degree through my own efforts and qualified for a dir
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2014-06-18"
 lastmod: "2014-06-18"

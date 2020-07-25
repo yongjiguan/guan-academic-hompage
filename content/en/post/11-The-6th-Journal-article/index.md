@@ -5,7 +5,7 @@ summary: The 6th Journal paper Microwave-Absorbing Properties of Room-Temperatur
 authors:
 - admin
 tags:
-- academia
+- Academic News
 categories: []
 date: "2019-01-23"
 lastmod: "2019-01-23"
