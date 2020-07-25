@@ -38,8 +38,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "Vibrational Spectrum"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Others"
+    tag = "Other Projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

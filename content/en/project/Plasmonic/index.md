@@ -2,7 +2,7 @@
 title: Plasmonic
 summary: Near Infrared Plasmonic Resonance Optical Trapping Based on Hybrid Metal Nanorod.
 tags:
-- Demo
+- Other Projects
 date: "2015-09-10"
 
 # Optional external URL for project (replaces project detail page).
