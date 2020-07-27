@@ -15,6 +15,41 @@
   [zh.params]
   description = "欢迎访问关永吉的个人学术主页"
   [[zh.menu.main]]
-  name = "Wo"
+  name = "个人简介"
   url = "#about"
-  weight = 1
+  weight = 10
+
+  [[zh.menu.main]]
+  name = "发表论文"
+  url = "#featured"
+  weight = 20
+
+  [[zh.menu.main]]
+  name = "学术报告"
+  url = "#talks"
+  weight = 30
+
+[[zh.menu.main]]
+  name = "教学课程"
+  url = "#teaching"
+  weight = 40
+
+[[zh.menu.main]]
+  name = "科研课题"
+  url = "#projects"
+  weight = 50
+
+[[zh.menu.main]]
+  name = "学术新闻"
+  url = "#posts"
+  weight = 60
+
+[[zh.menu.main]]
+  name = "常用链接"
+  url = "#links"
+  weight = 70
+
+[[zh.menu.main]]
+  name = "联系方式"
+  url = "#contact"
+  weight = 80
