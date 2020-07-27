@@ -51,8 +51,10 @@ time_format = "15:04"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yongji.guan@outlook.com"
-phone = "+44-7579904711"
-address = "80 Wood Lane, Imperial College London, London, W12 0BZ, United Kingdom"
+phone = """+86-18809463920<br>
+		   and +44-7579904711"""
+address = """80 Wood Lane, Imperial College London, London, W12 0BZ, United Kingdom<br>
+		     and Room401, Feiyun Building, 222 South Tianshui Road, Lanzhou 730000, Gansu Province, P.R.China"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Weekday 09:00 to 12:00<br>
