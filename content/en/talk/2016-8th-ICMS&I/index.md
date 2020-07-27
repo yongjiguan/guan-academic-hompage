@@ -1,6 +1,6 @@
 ---
 title: Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids
-event: academia Theme Conference
+event: Academic Conference
 event_url: http://icmsi.neotrident.com/
 location: Grand Mercure Teda Hotel, Dalian, China
 summary: Talking about the effect of droplet size, intrinsic viscosity and simulated temperature on Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids.
@@ -13,7 +13,7 @@ date_end: "2016-09-26T15:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-07-27T09:30:00Z"
+publishDate: "2016-09-26T09:30:00Z"
 
 authors: [Yongji Guan, Qunfeng Shao, Xiaoping Zhang]
 tags: [Academic Talks]
@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
