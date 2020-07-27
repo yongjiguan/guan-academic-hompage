@@ -1,8 +1,8 @@
 ---
-title: Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids
-event: Academic Conference
+title: 亲疏水性离子液体的纳米润湿能力
+event: 学术会议
 event_url: http://icmsi.neotrident.com/
-location: Grand Mercure Teda Hotel, Dalian, China
+location: 中国大连泰达美爵酒店
 summary: Talking about the effect of droplet size, intrinsic viscosity and simulated temperature on Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids.
 abstract: "In the present work a series of hydrophilic and hydrophobic 1-ethyl-3-methylimidazolium room temperature ionic liquids (RTILs) have been employed to probe the wettability in nano-scale using molecular dynamics (MD) simulation. The simulation results confirm droplet size, intrinsic viscosity and simulated temperature play the dominant role in the wettability of ionic liquids (ILs) in nano-scale."
 
@@ -47,7 +47,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Nano-Wetting]
+projects: [纳米润湿]
 # - internal-project
 
 # Enable math on this page?

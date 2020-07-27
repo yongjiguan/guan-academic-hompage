@@ -1,8 +1,8 @@
 ---
-title: Flow-Induced Energy Harvesting
-event: Academic Conference
+title: 流动诱导能量收集
+event: 学术会议
 event_url: https://sites.google.com/site/apcil6homepage/home
-location: Yonago Convention Center "BiG SHiP", Yonago city, Tottori, Japan.
+location: 日本鸟取县米子市米子会议中心“ BiG SHiP”。
 summary: Talking about the mechanismof flow-induced voltage generation and the effect of channel size, graphene area and simulated temperature on flow-induced voltage.
 abstract: "Herein, we employed MD simulation to investigate the generation of flow-induced voltage through driving ILs over graphene nano-channel. The flow-induced voltage can be potentially applied in nanoelectromechanical systems and offer much promise for bio-molecular sensing and bio-medical fields."
 
@@ -47,7 +47,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Energy-Harvesting]
+projects: [能量收集]
 # - internal-project
 
 # Enable math on this page?
