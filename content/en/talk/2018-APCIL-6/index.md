@@ -1,15 +1,15 @@
 ---
 title: Flow-Induced Energy Harvesting
 event: academia Theme Conference
-event_url: https://example.org
+event_url: https://sites.google.com/site/apcil6homepage/home
 location: Yonago Convention Center "BiG SHiP", Yonago city, Tottori, Japan.
 summary: Talking about the mechanismof flow-induced voltage generation and the effect of channel size, graphene area and simulated temperature on flow-induced voltage.
 abstract: "Herein, we employed MD simulation to investigate the generation of flow-induced voltage through driving ILs over graphene nano-channel. The flow-induced voltage can be potentially applied in nanoelectromechanical systems and offer much promise for bio-molecular sensing and bio-medical fields."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-10-01T15:45:00Z"
-date_end: "2018-10-01T16:00:00Z"
+date: "2018-10-01T16:00:00Z"
+date_end: "2018-10-01T16:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
