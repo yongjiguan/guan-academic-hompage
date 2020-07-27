@@ -13,7 +13,7 @@ date_end: "2018-10-01T16:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-07-27T09:30:00Z"
+publishDate: "2020-07-27T09:30:00Z"
 
 authors: [Yongji Guan, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, and Youquan Deng]
 tags: [Academic Talks]
@@ -47,7 +47,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: Energy Harvesting
+projects: [Energy-Harvesting]
 # - internal-project
 
 # Enable math on this page?
