@@ -4,6 +4,8 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
+logo = "icon.png"
+
 # Title of your site
 title = "Yongji Guan's Academic Hompage"
 
