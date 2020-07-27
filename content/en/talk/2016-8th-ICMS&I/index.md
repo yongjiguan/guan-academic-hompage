@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-07-27T09:30:00Z"
 
-authors: [Yongji Guan]
+authors: [Yongji Guan, Qunfeng Shao, Xiaoping Zhang]
 tags: [Academic Talks]
 
 # Is this a featured talk? (true/false)
