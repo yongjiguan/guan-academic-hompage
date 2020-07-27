@@ -3,7 +3,7 @@ title: 流动诱导能量收集
 event: 学术会议
 event_url: https://sites.google.com/site/apcil6homepage/home
 location: 日本鸟取县米子市米子会议中心“ BiG SHiP”。
-summary: Talking about the mechanismof flow-induced voltage generation and the effect of channel size, graphene area and simulated temperature on flow-induced voltage.
+summary: 报告流动诱导电压的产生机理以及石墨烯通道尺寸、面积和温度对流动诱导电压的影响。
 abstract: "Herein, we employed MD simulation to investigate the generation of flow-induced voltage through driving ILs over graphene nano-channel. The flow-induced voltage can be potentially applied in nanoelectromechanical systems and offer much promise for bio-molecular sensing and bio-medical fields."
 
 # Talk start and end times.
@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-10-01T09:30:00Z"
 
-authors: [Yongji Guan, Wenqiong Chen, Shimin Liu, Xiaoping Zhang, and Youquan Deng]
+authors: [关永吉，陈文琼，刘士民，张晓萍，邓友全]
 tags: [学术报告]
 
 # Is this a featured talk? (true/false)
