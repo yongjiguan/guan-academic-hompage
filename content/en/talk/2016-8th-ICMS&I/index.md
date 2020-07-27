@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-07-27T09:30:00Z"
 
-authors: [Yongji Guan]
+authors: [Yongji Guan, Qunfeng Shao, Xiaoping Zhang]
 tags: [Academic Talks]
 
 # Is this a featured talk? (true/false)
@@ -47,7 +47,7 @@ slides: example
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Nano Wetting]
+projects: Nano Wetting
 # - internal-project
 
 # Enable math on this page?
