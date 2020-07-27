@@ -1,8 +1,8 @@
 ---
 title: Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids
-event: Grand Mercure Teda Hotel
+event: academia Theme Conference
 event_url: http://icmsi.neotrident.com/
-location: Dalian, China
+location: Grand Mercure Teda Hotel, Dalian, China
 summary: Talking about the effect of droplet size, intrinsic viscosity and simulated temperature on Nano-Wettability of Hydrophilic and Hydrophobic Ionic Liquids.
 abstract: "In the present work a series of hydrophilic and hydrophobic 1-ethyl-3-methylimidazolium room temperature ionic liquids (RTILs) have been employed to probe the wettability in nano-scale using molecular dynamics (MD) simulation. The simulation results confirm droplet size, intrinsic viscosity and simulated temperature play the dominant role in the wettability of ionic liquids (ILs) in nano-scale."
 
