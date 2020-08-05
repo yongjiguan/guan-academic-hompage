@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "工作经历"
-subtitle = ""
+title = "学术经历"
+subtitle = "过往所有的经历都将是人生宝贵的财富"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

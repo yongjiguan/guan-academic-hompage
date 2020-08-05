@@ -3,10 +3,10 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "个人荣誉"
-subtitle = ""
+subtitle = "每一项荣誉都是对过去的肯定和未来的鞭策"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

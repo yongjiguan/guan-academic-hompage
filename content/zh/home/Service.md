@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "Service & leadership"
-subtitle = "I believe that helping others will benefit yourself as well"
+title = "学术兼职"
+subtitle = "赠人玫瑰，手有余香"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Journal & Conference Review"
+  organization = "期刊会议论文审稿"
   organization_url = ""
-  title = "Journal Review"
+  title = "期刊论文审稿"
   url = ""
   certificate_url = ""
   date_start = "2020-07-08"
@@ -35,9 +35,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Journal & Conference Review"
+  organization = "期刊会议论文审稿"
   organization_url = ""
-  title = "Conference Review"
+  title = "会议论文审稿"
   url = ""
   certificate_url = ""
   date_start = "2020-07-07"
