@@ -65,9 +65,13 @@ appointment_url = "https://calendly.com/yongji-guan"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GuanYongji"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:guanyj15"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "qq", icon_pack = "fab", name = "Chat on QQ", link = "skype:live:guanyj15"},
+  {icon = "weibo", icon_pack = "fab", name = "Chat on Weibo", link = "skype:live:guanyj15"},
+  {icon = "weixin", icon_pack = "fab", name = "Chat on Weixin", link = "skype:live:guanyj15"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GuanYongji"},
+  {icon = "whatsapp", icon_pack = "fab", name = "Chat on Whatsapp", link = "https://keybase.io/"},
+  {icon = "facebook", icon_pack = "fab", name = "Chat on Facebook", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
