@@ -43,7 +43,7 @@ education:
   - course: M.Sc. in Radio Physics
     institution: Lanzhou University
     year: 2016
-  - course: B.Eng. in Communacation Engineering
+  - course: B.Eng. in Communication Engineering
     institution: Lanzhou University
     year: 2014
 
