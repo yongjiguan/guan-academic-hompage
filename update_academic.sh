@@ -14,7 +14,7 @@ fi
 
 function view_update () {
   echo -e "Checking for updates...\n"
-  cd themes/academic
+  cd themes/academia-hugo
   git fetch
   git log --pretty=oneline --abbrev-commit --decorate HEAD..origin/master
   cd ../../
@@ -28,7 +28,7 @@ function do_update () {
   # - Update Netlify.toml with required Hugo version
   if [ -f ./netlify.toml ]; then
     # Postfix '.0' to Hugo min_version as sadly it doesn't map to a precise semantic version.
-    version=$(sed -n 's/^min_version = //p' themes/academic/theme.toml | tr -d '"')
+    version=$(sed -n 's/^min_version = //p' themes/academia-hugo/theme.toml | tr -d '"')
     version="${version}.0"
     echo "Set Netlify Hugo version to v${version}"
     sed -i.bak -e "s/HUGO_VERSION = .*/HUGO_VERSION = \"$version\"/g" ./netlify.toml && rm -f ./netlify.toml.bak
@@ -41,7 +41,7 @@ function do_update () {
 }
 
 # Display currently installed version (although could be between versions if updated to master rather than tag)
-version=$(sed -n 's/^version = "//p' themes/academic/data/academic.toml)
+version=$(sed -n 's/^version = "//p' themes/academia-hugo/data/academia.toml)
 echo -e "Source Themes Academic v$version\n"
 
 # Display available updates
