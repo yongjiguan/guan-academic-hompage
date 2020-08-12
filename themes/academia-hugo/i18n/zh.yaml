@@ -41,7 +41,7 @@
 - id: btn_download
   translation: 下载
 - id: interests
-  translation: 兴趣爱好
+  translation: 研究方向
 - id: education
   translation: 教育经历
 - id: user_profile_latest
@@ -67,7 +67,7 @@
 - id: contact_send
   translation: 发送
 - id: book_appointment
-  translation: 预约
+  translation: 预约会见
 - id: abstract
   translation: 摘要
 - id: publication
