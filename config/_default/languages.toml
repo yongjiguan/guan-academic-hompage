@@ -11,15 +11,19 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
+  
   title = "关永吉个人学术主页"
+  
   [zh.params]
   description = "欢迎访问关永吉的个人学术主页"
   email = "yongji.guan@outlook.com"
   phone = "+86-18809463920"
-  address = " 甘肃省兰州市天水南路222号飞云楼401室"
+  address = " 甘肃省兰州市天水南路222号兰州大学飞云楼401室"
   office_hours = """工作日 09:00 到 12:00<br>
                   和 14:00 到 18:00"""
-				  
+  latitude = "36.04915"
+  longitude = "103.85614"
+  
   [[zh.menu.main]]
   name = "个人简介"
   url = "#about"
