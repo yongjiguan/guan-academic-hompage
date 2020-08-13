@@ -34,7 +34,7 @@ hero_media = "/hero/GYJ-full-1.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
+  url = "/authors/yongji"
   label = "Know more"
   
 [btn_alt]

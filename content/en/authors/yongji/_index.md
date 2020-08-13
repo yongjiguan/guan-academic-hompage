@@ -4,12 +4,11 @@ name: Yongji Guan
 avatar_image: "/hero/GYJ-full-2.jpg"
 # Username (this should match the folder name)
 authors:
-- admin
+- yongji
 # resume download button
 btn:
 - url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
   label : "Download CV"
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 # Is this the primary user of the site?
 superuser: true
 
