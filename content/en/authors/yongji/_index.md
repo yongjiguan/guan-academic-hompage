@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
+- url : "{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}"
   label : "Download CV"
 
 # Is this the primary user of the site?
