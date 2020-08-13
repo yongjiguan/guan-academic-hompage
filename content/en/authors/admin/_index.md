@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}"
+- url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
   label : "Download CV"
 
 # Is this the primary user of the site?
@@ -52,9 +52,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=0rV6OnYAAAAJ
@@ -67,15 +67,18 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1467632/yongji-guan/  
-- icon: github
-  icon_pack: fab
-  link: https://github.com/yongjiguan
 - icon: academia
   icon_pack: ai
   link: https://independent.academia.edu/YongjiGuan
 - icon: mendeley
   icon_pack: ai
   link: https://www.mendeley.com/profiles/yongji-guan2/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yongjiguan
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yongji-guan-09434b195/  
